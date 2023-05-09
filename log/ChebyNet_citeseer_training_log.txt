@@ -1,0 +1,847 @@
+Epoch: 001 | Learning rate: 0.01000000 | Train loss: 1.792172 | Train acc: 0.166667 | Val loss: 1.792832 | Val acc: 0.172000 | Training duration: 0.015886
+Validation loss decreased ( inf -->  1.792832).  Saving model ...
+Epoch: 002 | Learning rate: 0.01000000 | Train loss: 1.787589 | Train acc: 0.333333 | Val loss: 1.792374 | Val acc: 0.256000 | Training duration: 0.014981
+Validation loss decreased ( 1.792832 -->  1.792374).  Saving model ...
+Epoch: 003 | Learning rate: 0.01000000 | Train loss: 1.771490 | Train acc: 0.791667 | Val loss: 1.789261 | Val acc: 0.256000 | Training duration: 0.013710
+Validation loss decreased ( 1.792374 -->  1.789261).  Saving model ...
+Epoch: 004 | Learning rate: 0.01000000 | Train loss: 1.745640 | Train acc: 0.916667 | Val loss: 1.783279 | Val acc: 0.376000 | Training duration: 0.013458
+Validation loss decreased ( 1.789261 -->  1.783279).  Saving model ...
+Epoch: 005 | Learning rate: 0.01000000 | Train loss: 1.711419 | Train acc: 0.900000 | Val loss: 1.775045 | Val acc: 0.422000 | Training duration: 0.012992
+Validation loss decreased ( 1.783279 -->  1.775045).  Saving model ...
+Epoch: 006 | Learning rate: 0.01000000 | Train loss: 1.667984 | Train acc: 0.950000 | Val loss: 1.763826 | Val acc: 0.466000 | Training duration: 0.013156
+Validation loss decreased ( 1.775045 -->  1.763826).  Saving model ...
+Epoch: 007 | Learning rate: 0.01000000 | Train loss: 1.611519 | Train acc: 0.950000 | Val loss: 1.749921 | Val acc: 0.500000 | Training duration: 0.013139
+Validation loss decreased ( 1.763826 -->  1.749921).  Saving model ...
+Epoch: 008 | Learning rate: 0.01000000 | Train loss: 1.543044 | Train acc: 0.975000 | Val loss: 1.732849 | Val acc: 0.530000 | Training duration: 0.013050
+Validation loss decreased ( 1.749921 -->  1.732849).  Saving model ...
+Epoch: 009 | Learning rate: 0.01000000 | Train loss: 1.461939 | Train acc: 0.983333 | Val loss: 1.713087 | Val acc: 0.552000 | Training duration: 0.012976
+Validation loss decreased ( 1.732849 -->  1.713087).  Saving model ...
+Epoch: 010 | Learning rate: 0.01000000 | Train loss: 1.371789 | Train acc: 0.983333 | Val loss: 1.690742 | Val acc: 0.554000 | Training duration: 0.013687
+Validation loss decreased ( 1.713087 -->  1.690742).  Saving model ...
+Epoch: 011 | Learning rate: 0.01000000 | Train loss: 1.273506 | Train acc: 0.983333 | Val loss: 1.664507 | Val acc: 0.564000 | Training duration: 0.011850
+Validation loss decreased ( 1.690742 -->  1.664507).  Saving model ...
+Epoch: 012 | Learning rate: 0.01000000 | Train loss: 1.161151 | Train acc: 0.975000 | Val loss: 1.634485 | Val acc: 0.590000 | Training duration: 0.012116
+Validation loss decreased ( 1.664507 -->  1.634485).  Saving model ...
+Epoch: 013 | Learning rate: 0.01000000 | Train loss: 1.051994 | Train acc: 0.983333 | Val loss: 1.602970 | Val acc: 0.582000 | Training duration: 0.011964
+Validation loss decreased ( 1.634485 -->  1.602970).  Saving model ...
+Epoch: 014 | Learning rate: 0.01000000 | Train loss: 0.933667 | Train acc: 0.983333 | Val loss: 1.571735 | Val acc: 0.590000 | Training duration: 0.011758
+Validation loss decreased ( 1.602970 -->  1.571735).  Saving model ...
+Epoch: 015 | Learning rate: 0.01000000 | Train loss: 0.816848 | Train acc: 0.991667 | Val loss: 1.530450 | Val acc: 0.594000 | Training duration: 0.011867
+Validation loss decreased ( 1.571735 -->  1.530450).  Saving model ...
+Epoch: 016 | Learning rate: 0.01000000 | Train loss: 0.705635 | Train acc: 1.000000 | Val loss: 1.492517 | Val acc: 0.628000 | Training duration: 0.011812
+Validation loss decreased ( 1.530450 -->  1.492517).  Saving model ...
+Epoch: 017 | Learning rate: 0.01000000 | Train loss: 0.604362 | Train acc: 0.991667 | Val loss: 1.455140 | Val acc: 0.626000 | Training duration: 0.011789
+Validation loss decreased ( 1.492517 -->  1.455140).  Saving model ...
+Epoch: 018 | Learning rate: 0.01000000 | Train loss: 0.510458 | Train acc: 1.000000 | Val loss: 1.421793 | Val acc: 0.618000 | Training duration: 0.011965
+Validation loss decreased ( 1.455140 -->  1.421793).  Saving model ...
+Epoch: 019 | Learning rate: 0.01000000 | Train loss: 0.422257 | Train acc: 1.000000 | Val loss: 1.384572 | Val acc: 0.658000 | Training duration: 0.011949
+Validation loss decreased ( 1.421793 -->  1.384572).  Saving model ...
+Epoch: 020 | Learning rate: 0.01000000 | Train loss: 0.348068 | Train acc: 1.000000 | Val loss: 1.348140 | Val acc: 0.658000 | Training duration: 0.011797
+Validation loss decreased ( 1.384572 -->  1.348140).  Saving model ...
+Epoch: 021 | Learning rate: 0.01000000 | Train loss: 0.285580 | Train acc: 1.000000 | Val loss: 1.313466 | Val acc: 0.662000 | Training duration: 0.011806
+Validation loss decreased ( 1.348140 -->  1.313466).  Saving model ...
+Epoch: 022 | Learning rate: 0.01000000 | Train loss: 0.234210 | Train acc: 1.000000 | Val loss: 1.284066 | Val acc: 0.666000 | Training duration: 0.011127
+Validation loss decreased ( 1.313466 -->  1.284066).  Saving model ...
+Epoch: 023 | Learning rate: 0.01000000 | Train loss: 0.194427 | Train acc: 1.000000 | Val loss: 1.262297 | Val acc: 0.650000 | Training duration: 0.011148
+Validation loss decreased ( 1.284066 -->  1.262297).  Saving model ...
+Epoch: 024 | Learning rate: 0.01000000 | Train loss: 0.164917 | Train acc: 1.000000 | Val loss: 1.236728 | Val acc: 0.666000 | Training duration: 0.011244
+Validation loss decreased ( 1.262297 -->  1.236728).  Saving model ...
+Epoch: 025 | Learning rate: 0.01000000 | Train loss: 0.135701 | Train acc: 1.000000 | Val loss: 1.227050 | Val acc: 0.638000 | Training duration: 0.011283
+Validation loss decreased ( 1.236728 -->  1.227050).  Saving model ...
+Epoch: 026 | Learning rate: 0.01000000 | Train loss: 0.113601 | Train acc: 1.000000 | Val loss: 1.200366 | Val acc: 0.662000 | Training duration: 0.011184
+Validation loss decreased ( 1.227050 -->  1.200366).  Saving model ...
+Epoch: 027 | Learning rate: 0.01000000 | Train loss: 0.098916 | Train acc: 1.000000 | Val loss: 1.183468 | Val acc: 0.646000 | Training duration: 0.015591
+Validation loss decreased ( 1.200366 -->  1.183468).  Saving model ...
+Epoch: 028 | Learning rate: 0.01000000 | Train loss: 0.083955 | Train acc: 1.000000 | Val loss: 1.168798 | Val acc: 0.660000 | Training duration: 0.012347
+Validation loss decreased ( 1.183468 -->  1.168798).  Saving model ...
+Epoch: 029 | Learning rate: 0.01000000 | Train loss: 0.074845 | Train acc: 1.000000 | Val loss: 1.152600 | Val acc: 0.662000 | Training duration: 0.012047
+Validation loss decreased ( 1.168798 -->  1.152600).  Saving model ...
+Epoch: 030 | Learning rate: 0.01000000 | Train loss: 0.061884 | Train acc: 1.000000 | Val loss: 1.135683 | Val acc: 0.672000 | Training duration: 0.011472
+Validation loss decreased ( 1.152600 -->  1.135683).  Saving model ...
+Epoch: 031 | Learning rate: 0.01000000 | Train loss: 0.059067 | Train acc: 1.000000 | Val loss: 1.124660 | Val acc: 0.666000 | Training duration: 0.011343
+Validation loss decreased ( 1.135683 -->  1.124660).  Saving model ...
+Epoch: 032 | Learning rate: 0.01000000 | Train loss: 0.054312 | Train acc: 1.000000 | Val loss: 1.110672 | Val acc: 0.668000 | Training duration: 0.011226
+Validation loss decreased ( 1.124660 -->  1.110672).  Saving model ...
+Epoch: 033 | Learning rate: 0.01000000 | Train loss: 0.050681 | Train acc: 1.000000 | Val loss: 1.112341 | Val acc: 0.668000 | Training duration: 0.011415
+Early stopping counter: 1 out of 50
+Epoch: 034 | Learning rate: 0.01000000 | Train loss: 0.048406 | Train acc: 1.000000 | Val loss: 1.116336 | Val acc: 0.660000 | Training duration: 0.011811
+Early stopping counter: 2 out of 50
+Epoch: 035 | Learning rate: 0.01000000 | Train loss: 0.046914 | Train acc: 1.000000 | Val loss: 1.106875 | Val acc: 0.654000 | Training duration: 0.011477
+Validation loss decreased ( 1.110672 -->  1.106875).  Saving model ...
+Epoch: 036 | Learning rate: 0.01000000 | Train loss: 0.043853 | Train acc: 1.000000 | Val loss: 1.086184 | Val acc: 0.668000 | Training duration: 0.013516
+Validation loss decreased ( 1.106875 -->  1.086184).  Saving model ...
+Epoch: 037 | Learning rate: 0.01000000 | Train loss: 0.042743 | Train acc: 1.000000 | Val loss: 1.097156 | Val acc: 0.666000 | Training duration: 0.011299
+Early stopping counter: 1 out of 50
+Epoch: 038 | Learning rate: 0.01000000 | Train loss: 0.044160 | Train acc: 1.000000 | Val loss: 1.095156 | Val acc: 0.672000 | Training duration: 0.011297
+Early stopping counter: 2 out of 50
+Epoch: 039 | Learning rate: 0.01000000 | Train loss: 0.043628 | Train acc: 1.000000 | Val loss: 1.100225 | Val acc: 0.660000 | Training duration: 0.010965
+Early stopping counter: 3 out of 50
+Epoch: 040 | Learning rate: 0.01000000 | Train loss: 0.046943 | Train acc: 1.000000 | Val loss: 1.091560 | Val acc: 0.656000 | Training duration: 0.011249
+Early stopping counter: 4 out of 50
+Epoch: 041 | Learning rate: 0.01000000 | Train loss: 0.049807 | Train acc: 1.000000 | Val loss: 1.096120 | Val acc: 0.656000 | Training duration: 0.011001
+Early stopping counter: 5 out of 50
+Epoch: 042 | Learning rate: 0.01000000 | Train loss: 0.050180 | Train acc: 1.000000 | Val loss: 1.096328 | Val acc: 0.666000 | Training duration: 0.011227
+Early stopping counter: 6 out of 50
+Epoch: 043 | Learning rate: 0.01000000 | Train loss: 0.049936 | Train acc: 1.000000 | Val loss: 1.106848 | Val acc: 0.664000 | Training duration: 0.011235
+Early stopping counter: 7 out of 50
+Epoch: 044 | Learning rate: 0.01000000 | Train loss: 0.051143 | Train acc: 1.000000 | Val loss: 1.102451 | Val acc: 0.650000 | Training duration: 0.011151
+Early stopping counter: 8 out of 50
+Epoch: 045 | Learning rate: 0.01000000 | Train loss: 0.051509 | Train acc: 1.000000 | Val loss: 1.088424 | Val acc: 0.668000 | Training duration: 0.011031
+Early stopping counter: 9 out of 50
+Epoch: 046 | Learning rate: 0.01000000 | Train loss: 0.054282 | Train acc: 1.000000 | Val loss: 1.087808 | Val acc: 0.652000 | Training duration: 0.011242
+Early stopping counter: 10 out of 50
+Epoch: 047 | Learning rate: 0.01000000 | Train loss: 0.056257 | Train acc: 1.000000 | Val loss: 1.083909 | Val acc: 0.668000 | Training duration: 0.011317
+Validation loss decreased ( 1.086184 -->  1.083909).  Saving model ...
+Epoch: 048 | Learning rate: 0.01000000 | Train loss: 0.055846 | Train acc: 1.000000 | Val loss: 1.093104 | Val acc: 0.652000 | Training duration: 0.011138
+Early stopping counter: 1 out of 50
+Epoch: 049 | Learning rate: 0.01000000 | Train loss: 0.056375 | Train acc: 1.000000 | Val loss: 1.076853 | Val acc: 0.672000 | Training duration: 0.011365
+Validation loss decreased ( 1.083909 -->  1.076853).  Saving model ...
+Epoch: 050 | Learning rate: 0.01000000 | Train loss: 0.058810 | Train acc: 1.000000 | Val loss: 1.077460 | Val acc: 0.660000 | Training duration: 0.011112
+Early stopping counter: 1 out of 50
+Epoch: 051 | Learning rate: 0.01000000 | Train loss: 0.059075 | Train acc: 1.000000 | Val loss: 1.096815 | Val acc: 0.664000 | Training duration: 0.011337
+Early stopping counter: 2 out of 50
+Epoch: 052 | Learning rate: 0.01000000 | Train loss: 0.058437 | Train acc: 1.000000 | Val loss: 1.094885 | Val acc: 0.656000 | Training duration: 0.012033
+Early stopping counter: 3 out of 50
+Epoch: 053 | Learning rate: 0.01000000 | Train loss: 0.060095 | Train acc: 1.000000 | Val loss: 1.088876 | Val acc: 0.660000 | Training duration: 0.011001
+Early stopping counter: 4 out of 50
+Epoch: 054 | Learning rate: 0.01000000 | Train loss: 0.054939 | Train acc: 1.000000 | Val loss: 1.085145 | Val acc: 0.652000 | Training duration: 0.011307
+Early stopping counter: 5 out of 50
+Epoch: 055 | Learning rate: 0.01000000 | Train loss: 0.058174 | Train acc: 1.000000 | Val loss: 1.077882 | Val acc: 0.666000 | Training duration: 0.011320
+Early stopping counter: 6 out of 50
+Epoch: 056 | Learning rate: 0.01000000 | Train loss: 0.055340 | Train acc: 1.000000 | Val loss: 1.087336 | Val acc: 0.654000 | Training duration: 0.011128
+Early stopping counter: 7 out of 50
+Epoch: 057 | Learning rate: 0.01000000 | Train loss: 0.057551 | Train acc: 1.000000 | Val loss: 1.068931 | Val acc: 0.660000 | Training duration: 0.011112
+Validation loss decreased ( 1.076853 -->  1.068931).  Saving model ...
+Epoch: 058 | Learning rate: 0.01000000 | Train loss: 0.054762 | Train acc: 1.000000 | Val loss: 1.062182 | Val acc: 0.676000 | Training duration: 0.011226
+Validation loss decreased ( 1.068931 -->  1.062182).  Saving model ...
+Epoch: 059 | Learning rate: 0.01000000 | Train loss: 0.054918 | Train acc: 1.000000 | Val loss: 1.058948 | Val acc: 0.668000 | Training duration: 0.011110
+Validation loss decreased ( 1.062182 -->  1.058948).  Saving model ...
+Epoch: 060 | Learning rate: 0.01000000 | Train loss: 0.051973 | Train acc: 1.000000 | Val loss: 1.056022 | Val acc: 0.666000 | Training duration: 0.011157
+Validation loss decreased ( 1.058948 -->  1.056022).  Saving model ...
+Epoch: 061 | Learning rate: 0.01000000 | Train loss: 0.050869 | Train acc: 1.000000 | Val loss: 1.057386 | Val acc: 0.676000 | Training duration: 0.011673
+Early stopping counter: 1 out of 50
+Epoch: 062 | Learning rate: 0.01000000 | Train loss: 0.047980 | Train acc: 1.000000 | Val loss: 1.060826 | Val acc: 0.668000 | Training duration: 0.011302
+Early stopping counter: 2 out of 50
+Epoch: 063 | Learning rate: 0.01000000 | Train loss: 0.047372 | Train acc: 1.000000 | Val loss: 1.037300 | Val acc: 0.662000 | Training duration: 0.011055
+Validation loss decreased ( 1.056022 -->  1.037300).  Saving model ...
+Epoch: 064 | Learning rate: 0.01000000 | Train loss: 0.045338 | Train acc: 1.000000 | Val loss: 1.046153 | Val acc: 0.676000 | Training duration: 0.011314
+Early stopping counter: 1 out of 50
+Epoch: 065 | Learning rate: 0.01000000 | Train loss: 0.047805 | Train acc: 1.000000 | Val loss: 1.060287 | Val acc: 0.650000 | Training duration: 0.011662
+Early stopping counter: 2 out of 50
+Epoch: 066 | Learning rate: 0.01000000 | Train loss: 0.044877 | Train acc: 1.000000 | Val loss: 1.057342 | Val acc: 0.666000 | Training duration: 0.012706
+Early stopping counter: 3 out of 50
+Epoch: 067 | Learning rate: 0.01000000 | Train loss: 0.043417 | Train acc: 1.000000 | Val loss: 1.054575 | Val acc: 0.672000 | Training duration: 0.013435
+Early stopping counter: 4 out of 50
+Epoch: 068 | Learning rate: 0.01000000 | Train loss: 0.041978 | Train acc: 1.000000 | Val loss: 1.056844 | Val acc: 0.672000 | Training duration: 0.010980
+Early stopping counter: 5 out of 50
+Epoch: 069 | Learning rate: 0.01000000 | Train loss: 0.040487 | Train acc: 1.000000 | Val loss: 1.042385 | Val acc: 0.670000 | Training duration: 0.011308
+Early stopping counter: 6 out of 50
+Epoch: 070 | Learning rate: 0.01000000 | Train loss: 0.038495 | Train acc: 1.000000 | Val loss: 1.033454 | Val acc: 0.678000 | Training duration: 0.011915
+Validation loss decreased ( 1.037300 -->  1.033454).  Saving model ...
+Epoch: 071 | Learning rate: 0.01000000 | Train loss: 0.040761 | Train acc: 1.000000 | Val loss: 1.034899 | Val acc: 0.682000 | Training duration: 0.010921
+Early stopping counter: 1 out of 50
+Epoch: 072 | Learning rate: 0.01000000 | Train loss: 0.040480 | Train acc: 1.000000 | Val loss: 1.029601 | Val acc: 0.678000 | Training duration: 0.012564
+Validation loss decreased ( 1.033454 -->  1.029601).  Saving model ...
+Epoch: 073 | Learning rate: 0.01000000 | Train loss: 0.038594 | Train acc: 1.000000 | Val loss: 1.028859 | Val acc: 0.672000 | Training duration: 0.011074
+Validation loss decreased ( 1.029601 -->  1.028859).  Saving model ...
+Epoch: 074 | Learning rate: 0.01000000 | Train loss: 0.040028 | Train acc: 1.000000 | Val loss: 1.035328 | Val acc: 0.674000 | Training duration: 0.011122
+Early stopping counter: 1 out of 50
+Epoch: 075 | Learning rate: 0.01000000 | Train loss: 0.037426 | Train acc: 1.000000 | Val loss: 1.038312 | Val acc: 0.674000 | Training duration: 0.012148
+Early stopping counter: 2 out of 50
+Epoch: 076 | Learning rate: 0.01000000 | Train loss: 0.037786 | Train acc: 1.000000 | Val loss: 1.032221 | Val acc: 0.666000 | Training duration: 0.011305
+Early stopping counter: 3 out of 50
+Epoch: 077 | Learning rate: 0.01000000 | Train loss: 0.040621 | Train acc: 1.000000 | Val loss: 1.029759 | Val acc: 0.704000 | Training duration: 0.011213
+Early stopping counter: 4 out of 50
+Epoch: 078 | Learning rate: 0.01000000 | Train loss: 0.037857 | Train acc: 1.000000 | Val loss: 1.025942 | Val acc: 0.674000 | Training duration: 0.011290
+Validation loss decreased ( 1.028859 -->  1.025942).  Saving model ...
+Epoch: 079 | Learning rate: 0.01000000 | Train loss: 0.040481 | Train acc: 1.000000 | Val loss: 1.028004 | Val acc: 0.682000 | Training duration: 0.011028
+Early stopping counter: 1 out of 50
+Epoch: 080 | Learning rate: 0.01000000 | Train loss: 0.037108 | Train acc: 1.000000 | Val loss: 1.036856 | Val acc: 0.680000 | Training duration: 0.011217
+Early stopping counter: 2 out of 50
+Epoch: 081 | Learning rate: 0.01000000 | Train loss: 0.039881 | Train acc: 1.000000 | Val loss: 1.020268 | Val acc: 0.680000 | Training duration: 0.011286
+Validation loss decreased ( 1.025942 -->  1.020268).  Saving model ...
+Epoch: 082 | Learning rate: 0.01000000 | Train loss: 0.036718 | Train acc: 1.000000 | Val loss: 1.017902 | Val acc: 0.690000 | Training duration: 0.011337
+Validation loss decreased ( 1.020268 -->  1.017902).  Saving model ...
+Epoch: 083 | Learning rate: 0.01000000 | Train loss: 0.036910 | Train acc: 1.000000 | Val loss: 1.011478 | Val acc: 0.680000 | Training duration: 0.011039
+Validation loss decreased ( 1.017902 -->  1.011478).  Saving model ...
+Epoch: 084 | Learning rate: 0.01000000 | Train loss: 0.038040 | Train acc: 1.000000 | Val loss: 1.015329 | Val acc: 0.690000 | Training duration: 0.011039
+Early stopping counter: 1 out of 50
+Epoch: 085 | Learning rate: 0.01000000 | Train loss: 0.036232 | Train acc: 1.000000 | Val loss: 1.023432 | Val acc: 0.678000 | Training duration: 0.011226
+Early stopping counter: 2 out of 50
+Epoch: 086 | Learning rate: 0.01000000 | Train loss: 0.037422 | Train acc: 1.000000 | Val loss: 1.021448 | Val acc: 0.658000 | Training duration: 0.011214
+Early stopping counter: 3 out of 50
+Epoch: 087 | Learning rate: 0.01000000 | Train loss: 0.035989 | Train acc: 1.000000 | Val loss: 1.013842 | Val acc: 0.682000 | Training duration: 0.010912
+Early stopping counter: 4 out of 50
+Epoch: 088 | Learning rate: 0.01000000 | Train loss: 0.036186 | Train acc: 1.000000 | Val loss: 1.024316 | Val acc: 0.674000 | Training duration: 0.011198
+Early stopping counter: 5 out of 50
+Epoch: 089 | Learning rate: 0.01000000 | Train loss: 0.035811 | Train acc: 1.000000 | Val loss: 1.013029 | Val acc: 0.678000 | Training duration: 0.011110
+Early stopping counter: 6 out of 50
+Epoch: 090 | Learning rate: 0.01000000 | Train loss: 0.035707 | Train acc: 1.000000 | Val loss: 1.012137 | Val acc: 0.686000 | Training duration: 0.010977
+Early stopping counter: 7 out of 50
+Epoch: 091 | Learning rate: 0.01000000 | Train loss: 0.034013 | Train acc: 1.000000 | Val loss: 1.010494 | Val acc: 0.690000 | Training duration: 0.011343
+Validation loss decreased ( 1.011478 -->  1.010494).  Saving model ...
+Epoch: 092 | Learning rate: 0.01000000 | Train loss: 0.032944 | Train acc: 1.000000 | Val loss: 1.008849 | Val acc: 0.682000 | Training duration: 0.011101
+Validation loss decreased ( 1.010494 -->  1.008849).  Saving model ...
+Epoch: 093 | Learning rate: 0.01000000 | Train loss: 0.032732 | Train acc: 1.000000 | Val loss: 1.013565 | Val acc: 0.678000 | Training duration: 0.011199
+Early stopping counter: 1 out of 50
+Epoch: 094 | Learning rate: 0.01000000 | Train loss: 0.034431 | Train acc: 1.000000 | Val loss: 1.005227 | Val acc: 0.676000 | Training duration: 0.011391
+Validation loss decreased ( 1.008849 -->  1.005227).  Saving model ...
+Epoch: 095 | Learning rate: 0.01000000 | Train loss: 0.033247 | Train acc: 1.000000 | Val loss: 0.996964 | Val acc: 0.676000 | Training duration: 0.011225
+Validation loss decreased ( 1.005227 -->  0.996964).  Saving model ...
+Epoch: 096 | Learning rate: 0.01000000 | Train loss: 0.032643 | Train acc: 1.000000 | Val loss: 1.012141 | Val acc: 0.678000 | Training duration: 0.011264
+Early stopping counter: 1 out of 50
+Epoch: 097 | Learning rate: 0.01000000 | Train loss: 0.033157 | Train acc: 1.000000 | Val loss: 0.997347 | Val acc: 0.682000 | Training duration: 0.011391
+Early stopping counter: 2 out of 50
+Epoch: 098 | Learning rate: 0.01000000 | Train loss: 0.033940 | Train acc: 1.000000 | Val loss: 1.012268 | Val acc: 0.672000 | Training duration: 0.011016
+Early stopping counter: 3 out of 50
+Epoch: 099 | Learning rate: 0.01000000 | Train loss: 0.031790 | Train acc: 1.000000 | Val loss: 1.011894 | Val acc: 0.672000 | Training duration: 0.011126
+Early stopping counter: 4 out of 50
+Epoch: 100 | Learning rate: 0.01000000 | Train loss: 0.033187 | Train acc: 1.000000 | Val loss: 1.006190 | Val acc: 0.684000 | Training duration: 0.011331
+Early stopping counter: 5 out of 50
+Epoch: 101 | Learning rate: 0.01000000 | Train loss: 0.032662 | Train acc: 1.000000 | Val loss: 1.001644 | Val acc: 0.682000 | Training duration: 0.011181
+Early stopping counter: 6 out of 50
+Epoch: 102 | Learning rate: 0.01000000 | Train loss: 0.031376 | Train acc: 1.000000 | Val loss: 1.001810 | Val acc: 0.678000 | Training duration: 0.011689
+Early stopping counter: 7 out of 50
+Epoch: 103 | Learning rate: 0.01000000 | Train loss: 0.031623 | Train acc: 1.000000 | Val loss: 1.003303 | Val acc: 0.680000 | Training duration: 0.011434
+Early stopping counter: 8 out of 50
+Epoch: 104 | Learning rate: 0.01000000 | Train loss: 0.031303 | Train acc: 1.000000 | Val loss: 1.003014 | Val acc: 0.680000 | Training duration: 0.011326
+Early stopping counter: 9 out of 50
+Epoch: 105 | Learning rate: 0.01000000 | Train loss: 0.031611 | Train acc: 1.000000 | Val loss: 0.994037 | Val acc: 0.676000 | Training duration: 0.011318
+Validation loss decreased ( 0.996964 -->  0.994037).  Saving model ...
+Epoch: 106 | Learning rate: 0.01000000 | Train loss: 0.031646 | Train acc: 1.000000 | Val loss: 0.995586 | Val acc: 0.690000 | Training duration: 0.012088
+Early stopping counter: 1 out of 50
+Epoch: 107 | Learning rate: 0.01000000 | Train loss: 0.032615 | Train acc: 1.000000 | Val loss: 0.997608 | Val acc: 0.684000 | Training duration: 0.010897
+Early stopping counter: 2 out of 50
+Epoch: 108 | Learning rate: 0.01000000 | Train loss: 0.031057 | Train acc: 1.000000 | Val loss: 0.987773 | Val acc: 0.680000 | Training duration: 0.011222
+Validation loss decreased ( 0.994037 -->  0.987773).  Saving model ...
+Epoch: 109 | Learning rate: 0.01000000 | Train loss: 0.031306 | Train acc: 1.000000 | Val loss: 0.993530 | Val acc: 0.692000 | Training duration: 0.011032
+Early stopping counter: 1 out of 50
+Epoch: 110 | Learning rate: 0.01000000 | Train loss: 0.032558 | Train acc: 1.000000 | Val loss: 0.993384 | Val acc: 0.686000 | Training duration: 0.011090
+Early stopping counter: 2 out of 50
+Epoch: 111 | Learning rate: 0.01000000 | Train loss: 0.030231 | Train acc: 1.000000 | Val loss: 1.004010 | Val acc: 0.688000 | Training duration: 0.011673
+Early stopping counter: 3 out of 50
+Epoch: 112 | Learning rate: 0.01000000 | Train loss: 0.030774 | Train acc: 1.000000 | Val loss: 0.987821 | Val acc: 0.692000 | Training duration: 0.010974
+Early stopping counter: 4 out of 50
+Epoch: 113 | Learning rate: 0.01000000 | Train loss: 0.030493 | Train acc: 1.000000 | Val loss: 0.994512 | Val acc: 0.684000 | Training duration: 0.011580
+Early stopping counter: 5 out of 50
+Epoch: 114 | Learning rate: 0.01000000 | Train loss: 0.029696 | Train acc: 1.000000 | Val loss: 0.987660 | Val acc: 0.678000 | Training duration: 0.011297
+Validation loss decreased ( 0.987773 -->  0.987660).  Saving model ...
+Epoch: 115 | Learning rate: 0.01000000 | Train loss: 0.029219 | Train acc: 1.000000 | Val loss: 0.984850 | Val acc: 0.684000 | Training duration: 0.011052
+Validation loss decreased ( 0.987660 -->  0.984850).  Saving model ...
+Epoch: 116 | Learning rate: 0.01000000 | Train loss: 0.028808 | Train acc: 1.000000 | Val loss: 0.987014 | Val acc: 0.692000 | Training duration: 0.012396
+Early stopping counter: 1 out of 50
+Epoch: 117 | Learning rate: 0.01000000 | Train loss: 0.028439 | Train acc: 1.000000 | Val loss: 0.978923 | Val acc: 0.690000 | Training duration: 0.011275
+Validation loss decreased ( 0.984850 -->  0.978923).  Saving model ...
+Epoch: 118 | Learning rate: 0.01000000 | Train loss: 0.028366 | Train acc: 1.000000 | Val loss: 0.981850 | Val acc: 0.690000 | Training duration: 0.011189
+Early stopping counter: 1 out of 50
+Epoch: 119 | Learning rate: 0.01000000 | Train loss: 0.028843 | Train acc: 1.000000 | Val loss: 0.986223 | Val acc: 0.700000 | Training duration: 0.011896
+Early stopping counter: 2 out of 50
+Epoch: 120 | Learning rate: 0.01000000 | Train loss: 0.028095 | Train acc: 1.000000 | Val loss: 0.994706 | Val acc: 0.684000 | Training duration: 0.011374
+Early stopping counter: 3 out of 50
+Epoch: 121 | Learning rate: 0.01000000 | Train loss: 0.028102 | Train acc: 1.000000 | Val loss: 0.993109 | Val acc: 0.692000 | Training duration: 0.011374
+Early stopping counter: 4 out of 50
+Epoch: 122 | Learning rate: 0.01000000 | Train loss: 0.028621 | Train acc: 1.000000 | Val loss: 0.973916 | Val acc: 0.686000 | Training duration: 0.011298
+Validation loss decreased ( 0.978923 -->  0.973916).  Saving model ...
+Epoch: 123 | Learning rate: 0.01000000 | Train loss: 0.027828 | Train acc: 1.000000 | Val loss: 0.983888 | Val acc: 0.684000 | Training duration: 0.011153
+Early stopping counter: 1 out of 50
+Epoch: 124 | Learning rate: 0.01000000 | Train loss: 0.029266 | Train acc: 1.000000 | Val loss: 0.974825 | Val acc: 0.692000 | Training duration: 0.011060
+Early stopping counter: 2 out of 50
+Epoch: 125 | Learning rate: 0.01000000 | Train loss: 0.027161 | Train acc: 1.000000 | Val loss: 0.985341 | Val acc: 0.686000 | Training duration: 0.010934
+Early stopping counter: 3 out of 50
+Epoch: 126 | Learning rate: 0.01000000 | Train loss: 0.028320 | Train acc: 1.000000 | Val loss: 0.983385 | Val acc: 0.696000 | Training duration: 0.011146
+Early stopping counter: 4 out of 50
+Epoch: 127 | Learning rate: 0.01000000 | Train loss: 0.026359 | Train acc: 1.000000 | Val loss: 0.980785 | Val acc: 0.686000 | Training duration: 0.010787
+Early stopping counter: 5 out of 50
+Epoch: 128 | Learning rate: 0.01000000 | Train loss: 0.028132 | Train acc: 1.000000 | Val loss: 0.990101 | Val acc: 0.684000 | Training duration: 0.014773
+Early stopping counter: 6 out of 50
+Epoch: 129 | Learning rate: 0.01000000 | Train loss: 0.026387 | Train acc: 1.000000 | Val loss: 0.983511 | Val acc: 0.674000 | Training duration: 0.010960
+Early stopping counter: 7 out of 50
+Epoch: 130 | Learning rate: 0.01000000 | Train loss: 0.027871 | Train acc: 1.000000 | Val loss: 0.984015 | Val acc: 0.694000 | Training duration: 0.011234
+Early stopping counter: 8 out of 50
+Epoch: 131 | Learning rate: 0.01000000 | Train loss: 0.026560 | Train acc: 1.000000 | Val loss: 0.989190 | Val acc: 0.682000 | Training duration: 0.011306
+Early stopping counter: 9 out of 50
+Epoch: 132 | Learning rate: 0.01000000 | Train loss: 0.024917 | Train acc: 1.000000 | Val loss: 0.982624 | Val acc: 0.684000 | Training duration: 0.010788
+Early stopping counter: 10 out of 50
+Epoch: 133 | Learning rate: 0.01000000 | Train loss: 0.027194 | Train acc: 1.000000 | Val loss: 0.967936 | Val acc: 0.690000 | Training duration: 0.011267
+Validation loss decreased ( 0.973916 -->  0.967936).  Saving model ...
+Epoch: 134 | Learning rate: 0.01000000 | Train loss: 0.025526 | Train acc: 1.000000 | Val loss: 0.965966 | Val acc: 0.700000 | Training duration: 0.011314
+Validation loss decreased ( 0.967936 -->  0.965966).  Saving model ...
+Epoch: 135 | Learning rate: 0.01000000 | Train loss: 0.027064 | Train acc: 1.000000 | Val loss: 0.973476 | Val acc: 0.688000 | Training duration: 0.011175
+Early stopping counter: 1 out of 50
+Epoch: 136 | Learning rate: 0.01000000 | Train loss: 0.026601 | Train acc: 1.000000 | Val loss: 0.983582 | Val acc: 0.694000 | Training duration: 0.011363
+Early stopping counter: 2 out of 50
+Epoch: 137 | Learning rate: 0.01000000 | Train loss: 0.027190 | Train acc: 1.000000 | Val loss: 0.972865 | Val acc: 0.698000 | Training duration: 0.011460
+Early stopping counter: 3 out of 50
+Epoch: 138 | Learning rate: 0.01000000 | Train loss: 0.026992 | Train acc: 1.000000 | Val loss: 0.981181 | Val acc: 0.694000 | Training duration: 0.010983
+Early stopping counter: 4 out of 50
+Epoch: 139 | Learning rate: 0.01000000 | Train loss: 0.026921 | Train acc: 1.000000 | Val loss: 0.978527 | Val acc: 0.700000 | Training duration: 0.011025
+Early stopping counter: 5 out of 50
+Epoch: 140 | Learning rate: 0.01000000 | Train loss: 0.026496 | Train acc: 1.000000 | Val loss: 0.977841 | Val acc: 0.682000 | Training duration: 0.011399
+Early stopping counter: 6 out of 50
+Epoch: 141 | Learning rate: 0.01000000 | Train loss: 0.025821 | Train acc: 1.000000 | Val loss: 0.988859 | Val acc: 0.670000 | Training duration: 0.012404
+Early stopping counter: 7 out of 50
+Epoch: 142 | Learning rate: 0.01000000 | Train loss: 0.025494 | Train acc: 1.000000 | Val loss: 0.973204 | Val acc: 0.692000 | Training duration: 0.011151
+Early stopping counter: 8 out of 50
+Epoch: 143 | Learning rate: 0.01000000 | Train loss: 0.026169 | Train acc: 1.000000 | Val loss: 0.984610 | Val acc: 0.670000 | Training duration: 0.010884
+Early stopping counter: 9 out of 50
+Epoch: 144 | Learning rate: 0.01000000 | Train loss: 0.024619 | Train acc: 1.000000 | Val loss: 0.975672 | Val acc: 0.698000 | Training duration: 0.011322
+Early stopping counter: 10 out of 50
+Epoch: 145 | Learning rate: 0.01000000 | Train loss: 0.025366 | Train acc: 1.000000 | Val loss: 0.972786 | Val acc: 0.690000 | Training duration: 0.011353
+Early stopping counter: 11 out of 50
+Epoch: 146 | Learning rate: 0.01000000 | Train loss: 0.024155 | Train acc: 1.000000 | Val loss: 0.963454 | Val acc: 0.698000 | Training duration: 0.011243
+Validation loss decreased ( 0.965966 -->  0.963454).  Saving model ...
+Epoch: 147 | Learning rate: 0.01000000 | Train loss: 0.023050 | Train acc: 1.000000 | Val loss: 0.957439 | Val acc: 0.684000 | Training duration: 0.013742
+Validation loss decreased ( 0.963454 -->  0.957439).  Saving model ...
+Epoch: 148 | Learning rate: 0.01000000 | Train loss: 0.024053 | Train acc: 1.000000 | Val loss: 0.966959 | Val acc: 0.688000 | Training duration: 0.011136
+Early stopping counter: 1 out of 50
+Epoch: 149 | Learning rate: 0.01000000 | Train loss: 0.023460 | Train acc: 1.000000 | Val loss: 0.987378 | Val acc: 0.688000 | Training duration: 0.011948
+Early stopping counter: 2 out of 50
+Epoch: 150 | Learning rate: 0.01000000 | Train loss: 0.024542 | Train acc: 1.000000 | Val loss: 0.978996 | Val acc: 0.678000 | Training duration: 0.011066
+Early stopping counter: 3 out of 50
+Epoch: 151 | Learning rate: 0.01000000 | Train loss: 0.024559 | Train acc: 1.000000 | Val loss: 0.967960 | Val acc: 0.694000 | Training duration: 0.011345
+Early stopping counter: 4 out of 50
+Epoch: 152 | Learning rate: 0.01000000 | Train loss: 0.024566 | Train acc: 1.000000 | Val loss: 0.982155 | Val acc: 0.692000 | Training duration: 0.011129
+Early stopping counter: 5 out of 50
+Epoch: 153 | Learning rate: 0.01000000 | Train loss: 0.025035 | Train acc: 1.000000 | Val loss: 0.972171 | Val acc: 0.682000 | Training duration: 0.012631
+Early stopping counter: 6 out of 50
+Epoch: 154 | Learning rate: 0.01000000 | Train loss: 0.022539 | Train acc: 1.000000 | Val loss: 0.962150 | Val acc: 0.684000 | Training duration: 0.011835
+Early stopping counter: 7 out of 50
+Epoch: 155 | Learning rate: 0.01000000 | Train loss: 0.024033 | Train acc: 1.000000 | Val loss: 0.975075 | Val acc: 0.676000 | Training duration: 0.012217
+Early stopping counter: 8 out of 50
+Epoch: 156 | Learning rate: 0.01000000 | Train loss: 0.024352 | Train acc: 1.000000 | Val loss: 0.966317 | Val acc: 0.692000 | Training duration: 0.012214
+Early stopping counter: 9 out of 50
+Epoch: 157 | Learning rate: 0.01000000 | Train loss: 0.024388 | Train acc: 1.000000 | Val loss: 0.970701 | Val acc: 0.684000 | Training duration: 0.011228
+Early stopping counter: 10 out of 50
+Epoch: 158 | Learning rate: 0.01000000 | Train loss: 0.025377 | Train acc: 1.000000 | Val loss: 0.983230 | Val acc: 0.684000 | Training duration: 0.011133
+Early stopping counter: 11 out of 50
+Epoch: 159 | Learning rate: 0.01000000 | Train loss: 0.025812 | Train acc: 1.000000 | Val loss: 0.984858 | Val acc: 0.690000 | Training duration: 0.012487
+Early stopping counter: 12 out of 50
+Epoch: 160 | Learning rate: 0.01000000 | Train loss: 0.022704 | Train acc: 1.000000 | Val loss: 0.990865 | Val acc: 0.690000 | Training duration: 0.011186
+Early stopping counter: 13 out of 50
+Epoch: 161 | Learning rate: 0.01000000 | Train loss: 0.023709 | Train acc: 1.000000 | Val loss: 0.960444 | Val acc: 0.686000 | Training duration: 0.011574
+Early stopping counter: 14 out of 50
+Epoch: 162 | Learning rate: 0.01000000 | Train loss: 0.022024 | Train acc: 1.000000 | Val loss: 0.969029 | Val acc: 0.700000 | Training duration: 0.011294
+Early stopping counter: 15 out of 50
+Epoch: 163 | Learning rate: 0.01000000 | Train loss: 0.023556 | Train acc: 1.000000 | Val loss: 0.971879 | Val acc: 0.692000 | Training duration: 0.011180
+Early stopping counter: 16 out of 50
+Epoch: 164 | Learning rate: 0.01000000 | Train loss: 0.021681 | Train acc: 1.000000 | Val loss: 0.958203 | Val acc: 0.696000 | Training duration: 0.011297
+Early stopping counter: 17 out of 50
+Epoch: 165 | Learning rate: 0.01000000 | Train loss: 0.023894 | Train acc: 1.000000 | Val loss: 0.969686 | Val acc: 0.700000 | Training duration: 0.011132
+Early stopping counter: 18 out of 50
+Epoch: 166 | Learning rate: 0.01000000 | Train loss: 0.023846 | Train acc: 1.000000 | Val loss: 0.962170 | Val acc: 0.686000 | Training duration: 0.011107
+Early stopping counter: 19 out of 50
+Epoch: 167 | Learning rate: 0.01000000 | Train loss: 0.022939 | Train acc: 1.000000 | Val loss: 0.960704 | Val acc: 0.694000 | Training duration: 0.010834
+Early stopping counter: 20 out of 50
+Epoch: 168 | Learning rate: 0.01000000 | Train loss: 0.022009 | Train acc: 1.000000 | Val loss: 0.967565 | Val acc: 0.684000 | Training duration: 0.011181
+Early stopping counter: 21 out of 50
+Epoch: 169 | Learning rate: 0.01000000 | Train loss: 0.022116 | Train acc: 1.000000 | Val loss: 0.968825 | Val acc: 0.682000 | Training duration: 0.010855
+Early stopping counter: 22 out of 50
+Epoch: 170 | Learning rate: 0.01000000 | Train loss: 0.021921 | Train acc: 1.000000 | Val loss: 0.950216 | Val acc: 0.688000 | Training duration: 0.011117
+Validation loss decreased ( 0.957439 -->  0.950216).  Saving model ...
+Epoch: 171 | Learning rate: 0.01000000 | Train loss: 0.023384 | Train acc: 1.000000 | Val loss: 0.956809 | Val acc: 0.688000 | Training duration: 0.011273
+Early stopping counter: 1 out of 50
+Epoch: 172 | Learning rate: 0.01000000 | Train loss: 0.023246 | Train acc: 1.000000 | Val loss: 0.956353 | Val acc: 0.686000 | Training duration: 0.010870
+Early stopping counter: 2 out of 50
+Epoch: 173 | Learning rate: 0.01000000 | Train loss: 0.021063 | Train acc: 1.000000 | Val loss: 0.958179 | Val acc: 0.698000 | Training duration: 0.010832
+Early stopping counter: 3 out of 50
+Epoch: 174 | Learning rate: 0.01000000 | Train loss: 0.022458 | Train acc: 1.000000 | Val loss: 0.968540 | Val acc: 0.698000 | Training duration: 0.011234
+Early stopping counter: 4 out of 50
+Epoch: 175 | Learning rate: 0.01000000 | Train loss: 0.020593 | Train acc: 1.000000 | Val loss: 0.968285 | Val acc: 0.690000 | Training duration: 0.010958
+Early stopping counter: 5 out of 50
+Epoch: 176 | Learning rate: 0.01000000 | Train loss: 0.022108 | Train acc: 1.000000 | Val loss: 0.970923 | Val acc: 0.692000 | Training duration: 0.012222
+Early stopping counter: 6 out of 50
+Epoch: 177 | Learning rate: 0.01000000 | Train loss: 0.021518 | Train acc: 1.000000 | Val loss: 0.977496 | Val acc: 0.682000 | Training duration: 0.011349
+Early stopping counter: 7 out of 50
+Epoch: 178 | Learning rate: 0.01000000 | Train loss: 0.021652 | Train acc: 1.000000 | Val loss: 0.969910 | Val acc: 0.684000 | Training duration: 0.010988
+Early stopping counter: 8 out of 50
+Epoch: 179 | Learning rate: 0.01000000 | Train loss: 0.022678 | Train acc: 1.000000 | Val loss: 0.965283 | Val acc: 0.690000 | Training duration: 0.012349
+Early stopping counter: 9 out of 50
+Epoch: 180 | Learning rate: 0.01000000 | Train loss: 0.020508 | Train acc: 1.000000 | Val loss: 0.975955 | Val acc: 0.680000 | Training duration: 0.011416
+Early stopping counter: 10 out of 50
+Epoch: 181 | Learning rate: 0.01000000 | Train loss: 0.022440 | Train acc: 1.000000 | Val loss: 0.959138 | Val acc: 0.690000 | Training duration: 0.011246
+Early stopping counter: 11 out of 50
+Epoch: 182 | Learning rate: 0.01000000 | Train loss: 0.022139 | Train acc: 1.000000 | Val loss: 0.961864 | Val acc: 0.698000 | Training duration: 0.011217
+Early stopping counter: 12 out of 50
+Epoch: 183 | Learning rate: 0.01000000 | Train loss: 0.021536 | Train acc: 1.000000 | Val loss: 0.957003 | Val acc: 0.700000 | Training duration: 0.011659
+Early stopping counter: 13 out of 50
+Epoch: 184 | Learning rate: 0.01000000 | Train loss: 0.020176 | Train acc: 1.000000 | Val loss: 0.957337 | Val acc: 0.688000 | Training duration: 0.011824
+Early stopping counter: 14 out of 50
+Epoch: 185 | Learning rate: 0.01000000 | Train loss: 0.021990 | Train acc: 1.000000 | Val loss: 0.956135 | Val acc: 0.694000 | Training duration: 0.010935
+Early stopping counter: 15 out of 50
+Epoch: 186 | Learning rate: 0.01000000 | Train loss: 0.021222 | Train acc: 1.000000 | Val loss: 0.967474 | Val acc: 0.688000 | Training duration: 0.011162
+Early stopping counter: 16 out of 50
+Epoch: 187 | Learning rate: 0.01000000 | Train loss: 0.020944 | Train acc: 1.000000 | Val loss: 0.959753 | Val acc: 0.698000 | Training duration: 0.011318
+Early stopping counter: 17 out of 50
+Epoch: 188 | Learning rate: 0.01000000 | Train loss: 0.022763 | Train acc: 1.000000 | Val loss: 0.971265 | Val acc: 0.682000 | Training duration: 0.011367
+Early stopping counter: 18 out of 50
+Epoch: 189 | Learning rate: 0.01000000 | Train loss: 0.021770 | Train acc: 1.000000 | Val loss: 0.968899 | Val acc: 0.678000 | Training duration: 0.011075
+Early stopping counter: 19 out of 50
+Epoch: 190 | Learning rate: 0.01000000 | Train loss: 0.021281 | Train acc: 1.000000 | Val loss: 0.966357 | Val acc: 0.692000 | Training duration: 0.011315
+Early stopping counter: 20 out of 50
+Epoch: 191 | Learning rate: 0.01000000 | Train loss: 0.020563 | Train acc: 1.000000 | Val loss: 0.966979 | Val acc: 0.696000 | Training duration: 0.011259
+Early stopping counter: 21 out of 50
+Epoch: 192 | Learning rate: 0.01000000 | Train loss: 0.020555 | Train acc: 1.000000 | Val loss: 0.960757 | Val acc: 0.692000 | Training duration: 0.011692
+Early stopping counter: 22 out of 50
+Epoch: 193 | Learning rate: 0.01000000 | Train loss: 0.020461 | Train acc: 1.000000 | Val loss: 0.958444 | Val acc: 0.704000 | Training duration: 0.010948
+Early stopping counter: 23 out of 50
+Epoch: 194 | Learning rate: 0.01000000 | Train loss: 0.021191 | Train acc: 1.000000 | Val loss: 0.961392 | Val acc: 0.696000 | Training duration: 0.010865
+Early stopping counter: 24 out of 50
+Epoch: 195 | Learning rate: 0.01000000 | Train loss: 0.021422 | Train acc: 1.000000 | Val loss: 0.951465 | Val acc: 0.706000 | Training duration: 0.011600
+Early stopping counter: 25 out of 50
+Epoch: 196 | Learning rate: 0.01000000 | Train loss: 0.019550 | Train acc: 1.000000 | Val loss: 0.958433 | Val acc: 0.688000 | Training duration: 0.011058
+Early stopping counter: 26 out of 50
+Epoch: 197 | Learning rate: 0.01000000 | Train loss: 0.021637 | Train acc: 1.000000 | Val loss: 0.954064 | Val acc: 0.690000 | Training duration: 0.011366
+Early stopping counter: 27 out of 50
+Epoch: 198 | Learning rate: 0.01000000 | Train loss: 0.019912 | Train acc: 1.000000 | Val loss: 0.970583 | Val acc: 0.672000 | Training duration: 0.010989
+Early stopping counter: 28 out of 50
+Epoch: 199 | Learning rate: 0.01000000 | Train loss: 0.021100 | Train acc: 1.000000 | Val loss: 0.969962 | Val acc: 0.684000 | Training duration: 0.011280
+Early stopping counter: 29 out of 50
+Epoch: 200 | Learning rate: 0.01000000 | Train loss: 0.019453 | Train acc: 1.000000 | Val loss: 0.972736 | Val acc: 0.680000 | Training duration: 0.011242
+Early stopping counter: 30 out of 50
+Epoch: 201 | Learning rate: 0.01000000 | Train loss: 0.019861 | Train acc: 1.000000 | Val loss: 0.972304 | Val acc: 0.692000 | Training duration: 0.011230
+Early stopping counter: 31 out of 50
+Epoch: 202 | Learning rate: 0.01000000 | Train loss: 0.018876 | Train acc: 1.000000 | Val loss: 0.963935 | Val acc: 0.706000 | Training duration: 0.011306
+Early stopping counter: 32 out of 50
+Epoch: 203 | Learning rate: 0.01000000 | Train loss: 0.019803 | Train acc: 1.000000 | Val loss: 0.949102 | Val acc: 0.698000 | Training duration: 0.011364
+Validation loss decreased ( 0.950216 -->  0.949102).  Saving model ...
+Epoch: 204 | Learning rate: 0.01000000 | Train loss: 0.019394 | Train acc: 1.000000 | Val loss: 0.963191 | Val acc: 0.686000 | Training duration: 0.011082
+Early stopping counter: 1 out of 50
+Epoch: 205 | Learning rate: 0.01000000 | Train loss: 0.020543 | Train acc: 1.000000 | Val loss: 0.956337 | Val acc: 0.702000 | Training duration: 0.011298
+Early stopping counter: 2 out of 50
+Epoch: 206 | Learning rate: 0.01000000 | Train loss: 0.018825 | Train acc: 1.000000 | Val loss: 0.959689 | Val acc: 0.684000 | Training duration: 0.011243
+Early stopping counter: 3 out of 50
+Epoch: 207 | Learning rate: 0.01000000 | Train loss: 0.020778 | Train acc: 1.000000 | Val loss: 0.949149 | Val acc: 0.710000 | Training duration: 0.011293
+Early stopping counter: 4 out of 50
+Epoch: 208 | Learning rate: 0.01000000 | Train loss: 0.018094 | Train acc: 1.000000 | Val loss: 0.953272 | Val acc: 0.700000 | Training duration: 0.012114
+Early stopping counter: 5 out of 50
+Epoch: 209 | Learning rate: 0.01000000 | Train loss: 0.019388 | Train acc: 1.000000 | Val loss: 0.952836 | Val acc: 0.680000 | Training duration: 0.010961
+Early stopping counter: 6 out of 50
+Epoch: 210 | Learning rate: 0.01000000 | Train loss: 0.019802 | Train acc: 1.000000 | Val loss: 0.955817 | Val acc: 0.692000 | Training duration: 0.011361
+Early stopping counter: 7 out of 50
+Epoch: 211 | Learning rate: 0.01000000 | Train loss: 0.020187 | Train acc: 1.000000 | Val loss: 0.959485 | Val acc: 0.692000 | Training duration: 0.011170
+Early stopping counter: 8 out of 50
+Epoch: 212 | Learning rate: 0.01000000 | Train loss: 0.019263 | Train acc: 1.000000 | Val loss: 0.955997 | Val acc: 0.690000 | Training duration: 0.011169
+Early stopping counter: 9 out of 50
+Epoch: 213 | Learning rate: 0.01000000 | Train loss: 0.018939 | Train acc: 1.000000 | Val loss: 0.963758 | Val acc: 0.688000 | Training duration: 0.010850
+Early stopping counter: 10 out of 50
+Epoch: 214 | Learning rate: 0.01000000 | Train loss: 0.018443 | Train acc: 1.000000 | Val loss: 0.969606 | Val acc: 0.692000 | Training duration: 0.011103
+Early stopping counter: 11 out of 50
+Epoch: 215 | Learning rate: 0.01000000 | Train loss: 0.020022 | Train acc: 1.000000 | Val loss: 0.974748 | Val acc: 0.682000 | Training duration: 0.012592
+Early stopping counter: 12 out of 50
+Epoch: 216 | Learning rate: 0.01000000 | Train loss: 0.019093 | Train acc: 1.000000 | Val loss: 0.957011 | Val acc: 0.700000 | Training duration: 0.011344
+Early stopping counter: 13 out of 50
+Epoch: 217 | Learning rate: 0.01000000 | Train loss: 0.018336 | Train acc: 1.000000 | Val loss: 0.948557 | Val acc: 0.700000 | Training duration: 0.011107
+Validation loss decreased ( 0.949102 -->  0.948557).  Saving model ...
+Epoch: 218 | Learning rate: 0.01000000 | Train loss: 0.019956 | Train acc: 1.000000 | Val loss: 0.961932 | Val acc: 0.682000 | Training duration: 0.011542
+Early stopping counter: 1 out of 50
+Epoch: 219 | Learning rate: 0.01000000 | Train loss: 0.020805 | Train acc: 1.000000 | Val loss: 0.950788 | Val acc: 0.694000 | Training duration: 0.011969
+Early stopping counter: 2 out of 50
+Epoch: 220 | Learning rate: 0.01000000 | Train loss: 0.018708 | Train acc: 1.000000 | Val loss: 0.949693 | Val acc: 0.696000 | Training duration: 0.011134
+Early stopping counter: 3 out of 50
+Epoch: 221 | Learning rate: 0.01000000 | Train loss: 0.020843 | Train acc: 1.000000 | Val loss: 0.970493 | Val acc: 0.692000 | Training duration: 0.011053
+Early stopping counter: 4 out of 50
+Epoch: 222 | Learning rate: 0.01000000 | Train loss: 0.019687 | Train acc: 1.000000 | Val loss: 0.963843 | Val acc: 0.690000 | Training duration: 0.014619
+Early stopping counter: 5 out of 50
+Epoch: 223 | Learning rate: 0.01000000 | Train loss: 0.019339 | Train acc: 1.000000 | Val loss: 0.981780 | Val acc: 0.680000 | Training duration: 0.011312
+Early stopping counter: 6 out of 50
+Epoch: 224 | Learning rate: 0.01000000 | Train loss: 0.018484 | Train acc: 1.000000 | Val loss: 0.955517 | Val acc: 0.702000 | Training duration: 0.011028
+Early stopping counter: 7 out of 50
+Epoch: 225 | Learning rate: 0.01000000 | Train loss: 0.017997 | Train acc: 1.000000 | Val loss: 0.954603 | Val acc: 0.678000 | Training duration: 0.011224
+Early stopping counter: 8 out of 50
+Epoch: 226 | Learning rate: 0.01000000 | Train loss: 0.017787 | Train acc: 1.000000 | Val loss: 0.953479 | Val acc: 0.706000 | Training duration: 0.010840
+Early stopping counter: 9 out of 50
+Epoch: 227 | Learning rate: 0.01000000 | Train loss: 0.017740 | Train acc: 1.000000 | Val loss: 0.954414 | Val acc: 0.698000 | Training duration: 0.010865
+Early stopping counter: 10 out of 50
+Epoch: 228 | Learning rate: 0.01000000 | Train loss: 0.020063 | Train acc: 1.000000 | Val loss: 0.965640 | Val acc: 0.690000 | Training duration: 0.010872
+Early stopping counter: 11 out of 50
+Epoch: 229 | Learning rate: 0.01000000 | Train loss: 0.017804 | Train acc: 1.000000 | Val loss: 0.978725 | Val acc: 0.680000 | Training duration: 0.011159
+Early stopping counter: 12 out of 50
+Epoch: 230 | Learning rate: 0.01000000 | Train loss: 0.019011 | Train acc: 1.000000 | Val loss: 0.971190 | Val acc: 0.688000 | Training duration: 0.011180
+Early stopping counter: 13 out of 50
+Epoch: 231 | Learning rate: 0.01000000 | Train loss: 0.016743 | Train acc: 1.000000 | Val loss: 0.949608 | Val acc: 0.700000 | Training duration: 0.010869
+Early stopping counter: 14 out of 50
+Epoch: 232 | Learning rate: 0.01000000 | Train loss: 0.018925 | Train acc: 1.000000 | Val loss: 0.958092 | Val acc: 0.690000 | Training duration: 0.011116
+Early stopping counter: 15 out of 50
+Epoch: 233 | Learning rate: 0.01000000 | Train loss: 0.018258 | Train acc: 1.000000 | Val loss: 0.960571 | Val acc: 0.688000 | Training duration: 0.011564
+Early stopping counter: 16 out of 50
+Epoch: 234 | Learning rate: 0.01000000 | Train loss: 0.018759 | Train acc: 1.000000 | Val loss: 0.955720 | Val acc: 0.696000 | Training duration: 0.010834
+Early stopping counter: 17 out of 50
+Epoch: 235 | Learning rate: 0.01000000 | Train loss: 0.017497 | Train acc: 1.000000 | Val loss: 0.959967 | Val acc: 0.694000 | Training duration: 0.010972
+Early stopping counter: 18 out of 50
+Epoch: 236 | Learning rate: 0.01000000 | Train loss: 0.017778 | Train acc: 1.000000 | Val loss: 0.950591 | Val acc: 0.686000 | Training duration: 0.011107
+Early stopping counter: 19 out of 50
+Epoch: 237 | Learning rate: 0.01000000 | Train loss: 0.018708 | Train acc: 1.000000 | Val loss: 0.945979 | Val acc: 0.700000 | Training duration: 0.010776
+Validation loss decreased ( 0.948557 -->  0.945979).  Saving model ...
+Epoch: 238 | Learning rate: 0.01000000 | Train loss: 0.017446 | Train acc: 1.000000 | Val loss: 0.958965 | Val acc: 0.700000 | Training duration: 0.011091
+Early stopping counter: 1 out of 50
+Epoch: 239 | Learning rate: 0.01000000 | Train loss: 0.018545 | Train acc: 1.000000 | Val loss: 0.947688 | Val acc: 0.694000 | Training duration: 0.010899
+Early stopping counter: 2 out of 50
+Epoch: 240 | Learning rate: 0.01000000 | Train loss: 0.017666 | Train acc: 1.000000 | Val loss: 0.943688 | Val acc: 0.686000 | Training duration: 0.011339
+Validation loss decreased ( 0.945979 -->  0.943688).  Saving model ...
+Epoch: 241 | Learning rate: 0.01000000 | Train loss: 0.017524 | Train acc: 1.000000 | Val loss: 0.958143 | Val acc: 0.692000 | Training duration: 0.011126
+Early stopping counter: 1 out of 50
+Epoch: 242 | Learning rate: 0.01000000 | Train loss: 0.019113 | Train acc: 1.000000 | Val loss: 0.955265 | Val acc: 0.690000 | Training duration: 0.011143
+Early stopping counter: 2 out of 50
+Epoch: 243 | Learning rate: 0.01000000 | Train loss: 0.018620 | Train acc: 1.000000 | Val loss: 0.948393 | Val acc: 0.690000 | Training duration: 0.011154
+Early stopping counter: 3 out of 50
+Epoch: 244 | Learning rate: 0.01000000 | Train loss: 0.018356 | Train acc: 1.000000 | Val loss: 0.968691 | Val acc: 0.684000 | Training duration: 0.011281
+Early stopping counter: 4 out of 50
+Epoch: 245 | Learning rate: 0.01000000 | Train loss: 0.017668 | Train acc: 1.000000 | Val loss: 0.952450 | Val acc: 0.688000 | Training duration: 0.011195
+Early stopping counter: 5 out of 50
+Epoch: 246 | Learning rate: 0.01000000 | Train loss: 0.017641 | Train acc: 1.000000 | Val loss: 0.962295 | Val acc: 0.700000 | Training duration: 0.010815
+Early stopping counter: 6 out of 50
+Epoch: 247 | Learning rate: 0.01000000 | Train loss: 0.017637 | Train acc: 1.000000 | Val loss: 0.950075 | Val acc: 0.702000 | Training duration: 0.011232
+Early stopping counter: 7 out of 50
+Epoch: 248 | Learning rate: 0.01000000 | Train loss: 0.016991 | Train acc: 1.000000 | Val loss: 0.948571 | Val acc: 0.698000 | Training duration: 0.011458
+Early stopping counter: 8 out of 50
+Epoch: 249 | Learning rate: 0.01000000 | Train loss: 0.017123 | Train acc: 1.000000 | Val loss: 0.955127 | Val acc: 0.680000 | Training duration: 0.010947
+Early stopping counter: 9 out of 50
+Epoch: 250 | Learning rate: 0.01000000 | Train loss: 0.016788 | Train acc: 1.000000 | Val loss: 0.965245 | Val acc: 0.678000 | Training duration: 0.011521
+Early stopping counter: 10 out of 50
+Epoch: 251 | Learning rate: 0.01000000 | Train loss: 0.017192 | Train acc: 1.000000 | Val loss: 0.951027 | Val acc: 0.686000 | Training duration: 0.013696
+Early stopping counter: 11 out of 50
+Epoch: 252 | Learning rate: 0.01000000 | Train loss: 0.016835 | Train acc: 1.000000 | Val loss: 0.948390 | Val acc: 0.694000 | Training duration: 0.011601
+Early stopping counter: 12 out of 50
+Epoch: 253 | Learning rate: 0.01000000 | Train loss: 0.017922 | Train acc: 1.000000 | Val loss: 0.952757 | Val acc: 0.698000 | Training duration: 0.011331
+Early stopping counter: 13 out of 50
+Epoch: 254 | Learning rate: 0.01000000 | Train loss: 0.016901 | Train acc: 1.000000 | Val loss: 0.947025 | Val acc: 0.690000 | Training duration: 0.011282
+Early stopping counter: 14 out of 50
+Epoch: 255 | Learning rate: 0.01000000 | Train loss: 0.017167 | Train acc: 1.000000 | Val loss: 0.943931 | Val acc: 0.702000 | Training duration: 0.010880
+Early stopping counter: 15 out of 50
+Epoch: 256 | Learning rate: 0.01000000 | Train loss: 0.017362 | Train acc: 1.000000 | Val loss: 0.960768 | Val acc: 0.692000 | Training duration: 0.013674
+Early stopping counter: 16 out of 50
+Epoch: 257 | Learning rate: 0.01000000 | Train loss: 0.016792 | Train acc: 1.000000 | Val loss: 0.959244 | Val acc: 0.686000 | Training duration: 0.011952
+Early stopping counter: 17 out of 50
+Epoch: 258 | Learning rate: 0.01000000 | Train loss: 0.017377 | Train acc: 1.000000 | Val loss: 0.956101 | Val acc: 0.686000 | Training duration: 0.011272
+Early stopping counter: 18 out of 50
+Epoch: 259 | Learning rate: 0.01000000 | Train loss: 0.017451 | Train acc: 1.000000 | Val loss: 0.946355 | Val acc: 0.694000 | Training duration: 0.011426
+Early stopping counter: 19 out of 50
+Epoch: 260 | Learning rate: 0.01000000 | Train loss: 0.016994 | Train acc: 1.000000 | Val loss: 0.952463 | Val acc: 0.698000 | Training duration: 0.011370
+Early stopping counter: 20 out of 50
+Epoch: 261 | Learning rate: 0.01000000 | Train loss: 0.016664 | Train acc: 1.000000 | Val loss: 0.943794 | Val acc: 0.710000 | Training duration: 0.011475
+Early stopping counter: 21 out of 50
+Epoch: 262 | Learning rate: 0.01000000 | Train loss: 0.016776 | Train acc: 1.000000 | Val loss: 0.943955 | Val acc: 0.702000 | Training duration: 0.010960
+Early stopping counter: 22 out of 50
+Epoch: 263 | Learning rate: 0.01000000 | Train loss: 0.017295 | Train acc: 1.000000 | Val loss: 0.952495 | Val acc: 0.698000 | Training duration: 0.011227
+Early stopping counter: 23 out of 50
+Epoch: 264 | Learning rate: 0.01000000 | Train loss: 0.016162 | Train acc: 1.000000 | Val loss: 0.945379 | Val acc: 0.692000 | Training duration: 0.011230
+Early stopping counter: 24 out of 50
+Epoch: 265 | Learning rate: 0.01000000 | Train loss: 0.015994 | Train acc: 1.000000 | Val loss: 0.958088 | Val acc: 0.672000 | Training duration: 0.011175
+Early stopping counter: 25 out of 50
+Epoch: 266 | Learning rate: 0.01000000 | Train loss: 0.016535 | Train acc: 1.000000 | Val loss: 0.956472 | Val acc: 0.692000 | Training duration: 0.011218
+Early stopping counter: 26 out of 50
+Epoch: 267 | Learning rate: 0.01000000 | Train loss: 0.015741 | Train acc: 1.000000 | Val loss: 0.957435 | Val acc: 0.690000 | Training duration: 0.011242
+Early stopping counter: 27 out of 50
+Epoch: 268 | Learning rate: 0.01000000 | Train loss: 0.015880 | Train acc: 1.000000 | Val loss: 0.950490 | Val acc: 0.694000 | Training duration: 0.011415
+Early stopping counter: 28 out of 50
+Epoch: 269 | Learning rate: 0.01000000 | Train loss: 0.016312 | Train acc: 1.000000 | Val loss: 0.959315 | Val acc: 0.690000 | Training duration: 0.011303
+Early stopping counter: 29 out of 50
+Epoch: 270 | Learning rate: 0.01000000 | Train loss: 0.016106 | Train acc: 1.000000 | Val loss: 0.955399 | Val acc: 0.686000 | Training duration: 0.011366
+Early stopping counter: 30 out of 50
+Epoch: 271 | Learning rate: 0.01000000 | Train loss: 0.016367 | Train acc: 1.000000 | Val loss: 0.962325 | Val acc: 0.688000 | Training duration: 0.011179
+Early stopping counter: 31 out of 50
+Epoch: 272 | Learning rate: 0.01000000 | Train loss: 0.016746 | Train acc: 1.000000 | Val loss: 0.977432 | Val acc: 0.676000 | Training duration: 0.011131
+Early stopping counter: 32 out of 50
+Epoch: 273 | Learning rate: 0.01000000 | Train loss: 0.017460 | Train acc: 1.000000 | Val loss: 0.957038 | Val acc: 0.690000 | Training duration: 0.011448
+Early stopping counter: 33 out of 50
+Epoch: 274 | Learning rate: 0.01000000 | Train loss: 0.016675 | Train acc: 1.000000 | Val loss: 0.961705 | Val acc: 0.698000 | Training duration: 0.011253
+Early stopping counter: 34 out of 50
+Epoch: 275 | Learning rate: 0.01000000 | Train loss: 0.015834 | Train acc: 1.000000 | Val loss: 0.948958 | Val acc: 0.692000 | Training duration: 0.011247
+Early stopping counter: 35 out of 50
+Epoch: 276 | Learning rate: 0.01000000 | Train loss: 0.016306 | Train acc: 1.000000 | Val loss: 0.941694 | Val acc: 0.704000 | Training duration: 0.010888
+Validation loss decreased ( 0.943688 -->  0.941694).  Saving model ...
+Epoch: 277 | Learning rate: 0.01000000 | Train loss: 0.015161 | Train acc: 1.000000 | Val loss: 0.951261 | Val acc: 0.692000 | Training duration: 0.011232
+Early stopping counter: 1 out of 50
+Epoch: 278 | Learning rate: 0.01000000 | Train loss: 0.015638 | Train acc: 1.000000 | Val loss: 0.968523 | Val acc: 0.680000 | Training duration: 0.010948
+Early stopping counter: 2 out of 50
+Epoch: 279 | Learning rate: 0.01000000 | Train loss: 0.015265 | Train acc: 1.000000 | Val loss: 0.964857 | Val acc: 0.678000 | Training duration: 0.011224
+Early stopping counter: 3 out of 50
+Epoch: 280 | Learning rate: 0.01000000 | Train loss: 0.016552 | Train acc: 1.000000 | Val loss: 0.951686 | Val acc: 0.696000 | Training duration: 0.010984
+Early stopping counter: 4 out of 50
+Epoch: 281 | Learning rate: 0.01000000 | Train loss: 0.016423 | Train acc: 1.000000 | Val loss: 0.946708 | Val acc: 0.702000 | Training duration: 0.011238
+Early stopping counter: 5 out of 50
+Epoch: 282 | Learning rate: 0.01000000 | Train loss: 0.016618 | Train acc: 1.000000 | Val loss: 0.943396 | Val acc: 0.694000 | Training duration: 0.011054
+Early stopping counter: 6 out of 50
+Epoch: 283 | Learning rate: 0.01000000 | Train loss: 0.015914 | Train acc: 1.000000 | Val loss: 0.957610 | Val acc: 0.694000 | Training duration: 0.011283
+Early stopping counter: 7 out of 50
+Epoch: 284 | Learning rate: 0.01000000 | Train loss: 0.015807 | Train acc: 1.000000 | Val loss: 0.971813 | Val acc: 0.694000 | Training duration: 0.011231
+Early stopping counter: 8 out of 50
+Epoch: 285 | Learning rate: 0.01000000 | Train loss: 0.016553 | Train acc: 1.000000 | Val loss: 0.945963 | Val acc: 0.696000 | Training duration: 0.011208
+Early stopping counter: 9 out of 50
+Epoch: 286 | Learning rate: 0.01000000 | Train loss: 0.015880 | Train acc: 1.000000 | Val loss: 0.965145 | Val acc: 0.692000 | Training duration: 0.011592
+Early stopping counter: 10 out of 50
+Epoch: 287 | Learning rate: 0.01000000 | Train loss: 0.014496 | Train acc: 1.000000 | Val loss: 0.954288 | Val acc: 0.696000 | Training duration: 0.010928
+Early stopping counter: 11 out of 50
+Epoch: 288 | Learning rate: 0.01000000 | Train loss: 0.015934 | Train acc: 1.000000 | Val loss: 0.937887 | Val acc: 0.698000 | Training duration: 0.010958
+Validation loss decreased ( 0.941694 -->  0.937887).  Saving model ...
+Epoch: 289 | Learning rate: 0.01000000 | Train loss: 0.015104 | Train acc: 1.000000 | Val loss: 0.959894 | Val acc: 0.692000 | Training duration: 0.011139
+Early stopping counter: 1 out of 50
+Epoch: 290 | Learning rate: 0.01000000 | Train loss: 0.013944 | Train acc: 1.000000 | Val loss: 0.960679 | Val acc: 0.692000 | Training duration: 0.010992
+Early stopping counter: 2 out of 50
+Epoch: 291 | Learning rate: 0.01000000 | Train loss: 0.015970 | Train acc: 1.000000 | Val loss: 0.955911 | Val acc: 0.680000 | Training duration: 0.011010
+Early stopping counter: 3 out of 50
+Epoch: 292 | Learning rate: 0.01000000 | Train loss: 0.015782 | Train acc: 1.000000 | Val loss: 0.967593 | Val acc: 0.686000 | Training duration: 0.011157
+Early stopping counter: 4 out of 50
+Epoch: 293 | Learning rate: 0.01000000 | Train loss: 0.015033 | Train acc: 1.000000 | Val loss: 0.961848 | Val acc: 0.688000 | Training duration: 0.011325
+Early stopping counter: 5 out of 50
+Epoch: 294 | Learning rate: 0.01000000 | Train loss: 0.015901 | Train acc: 1.000000 | Val loss: 0.941480 | Val acc: 0.702000 | Training duration: 0.010882
+Early stopping counter: 6 out of 50
+Epoch: 295 | Learning rate: 0.01000000 | Train loss: 0.014864 | Train acc: 1.000000 | Val loss: 0.967248 | Val acc: 0.690000 | Training duration: 0.011208
+Early stopping counter: 7 out of 50
+Epoch: 296 | Learning rate: 0.01000000 | Train loss: 0.014451 | Train acc: 1.000000 | Val loss: 0.951342 | Val acc: 0.704000 | Training duration: 0.010826
+Early stopping counter: 8 out of 50
+Epoch: 297 | Learning rate: 0.01000000 | Train loss: 0.015408 | Train acc: 1.000000 | Val loss: 0.950046 | Val acc: 0.702000 | Training duration: 0.011009
+Early stopping counter: 9 out of 50
+Epoch: 298 | Learning rate: 0.01000000 | Train loss: 0.014764 | Train acc: 1.000000 | Val loss: 0.952307 | Val acc: 0.696000 | Training duration: 0.012454
+Early stopping counter: 10 out of 50
+Epoch: 299 | Learning rate: 0.01000000 | Train loss: 0.016469 | Train acc: 1.000000 | Val loss: 0.951834 | Val acc: 0.684000 | Training duration: 0.011106
+Early stopping counter: 11 out of 50
+Epoch: 300 | Learning rate: 0.01000000 | Train loss: 0.015060 | Train acc: 1.000000 | Val loss: 0.954395 | Val acc: 0.688000 | Training duration: 0.011543
+Early stopping counter: 12 out of 50
+Epoch: 301 | Learning rate: 0.01000000 | Train loss: 0.014951 | Train acc: 1.000000 | Val loss: 0.941453 | Val acc: 0.700000 | Training duration: 0.011102
+Early stopping counter: 13 out of 50
+Epoch: 302 | Learning rate: 0.01000000 | Train loss: 0.016149 | Train acc: 1.000000 | Val loss: 0.954054 | Val acc: 0.696000 | Training duration: 0.012659
+Early stopping counter: 14 out of 50
+Epoch: 303 | Learning rate: 0.01000000 | Train loss: 0.013500 | Train acc: 1.000000 | Val loss: 0.967415 | Val acc: 0.678000 | Training duration: 0.011757
+Early stopping counter: 15 out of 50
+Epoch: 304 | Learning rate: 0.01000000 | Train loss: 0.014497 | Train acc: 1.000000 | Val loss: 0.962039 | Val acc: 0.686000 | Training duration: 0.014795
+Early stopping counter: 16 out of 50
+Epoch: 305 | Learning rate: 0.01000000 | Train loss: 0.015776 | Train acc: 1.000000 | Val loss: 0.965585 | Val acc: 0.686000 | Training duration: 0.011420
+Early stopping counter: 17 out of 50
+Epoch: 306 | Learning rate: 0.01000000 | Train loss: 0.015111 | Train acc: 1.000000 | Val loss: 0.955469 | Val acc: 0.678000 | Training duration: 0.011757
+Early stopping counter: 18 out of 50
+Epoch: 307 | Learning rate: 0.01000000 | Train loss: 0.015951 | Train acc: 1.000000 | Val loss: 0.953199 | Val acc: 0.684000 | Training duration: 0.012262
+Early stopping counter: 19 out of 50
+Epoch: 308 | Learning rate: 0.01000000 | Train loss: 0.013501 | Train acc: 1.000000 | Val loss: 0.941199 | Val acc: 0.690000 | Training duration: 0.010983
+Early stopping counter: 20 out of 50
+Epoch: 309 | Learning rate: 0.01000000 | Train loss: 0.014745 | Train acc: 1.000000 | Val loss: 0.956907 | Val acc: 0.696000 | Training duration: 0.011249
+Early stopping counter: 21 out of 50
+Epoch: 310 | Learning rate: 0.01000000 | Train loss: 0.014355 | Train acc: 1.000000 | Val loss: 0.954261 | Val acc: 0.682000 | Training duration: 0.011095
+Early stopping counter: 22 out of 50
+Epoch: 311 | Learning rate: 0.01000000 | Train loss: 0.014222 | Train acc: 1.000000 | Val loss: 0.939877 | Val acc: 0.692000 | Training duration: 0.011116
+Early stopping counter: 23 out of 50
+Epoch: 312 | Learning rate: 0.01000000 | Train loss: 0.014092 | Train acc: 1.000000 | Val loss: 0.958000 | Val acc: 0.684000 | Training duration: 0.011208
+Early stopping counter: 24 out of 50
+Epoch: 313 | Learning rate: 0.01000000 | Train loss: 0.014023 | Train acc: 1.000000 | Val loss: 0.958479 | Val acc: 0.696000 | Training duration: 0.011145
+Early stopping counter: 25 out of 50
+Epoch: 314 | Learning rate: 0.01000000 | Train loss: 0.013673 | Train acc: 1.000000 | Val loss: 0.961270 | Val acc: 0.700000 | Training duration: 0.011106
+Early stopping counter: 26 out of 50
+Epoch: 315 | Learning rate: 0.01000000 | Train loss: 0.014089 | Train acc: 1.000000 | Val loss: 0.959975 | Val acc: 0.696000 | Training duration: 0.010895
+Early stopping counter: 27 out of 50
+Epoch: 316 | Learning rate: 0.01000000 | Train loss: 0.016429 | Train acc: 1.000000 | Val loss: 0.944017 | Val acc: 0.708000 | Training duration: 0.010961
+Early stopping counter: 28 out of 50
+Epoch: 317 | Learning rate: 0.01000000 | Train loss: 0.014594 | Train acc: 1.000000 | Val loss: 0.952994 | Val acc: 0.702000 | Training duration: 0.011234
+Early stopping counter: 29 out of 50
+Epoch: 318 | Learning rate: 0.01000000 | Train loss: 0.014353 | Train acc: 1.000000 | Val loss: 0.952838 | Val acc: 0.688000 | Training duration: 0.011155
+Early stopping counter: 30 out of 50
+Epoch: 319 | Learning rate: 0.01000000 | Train loss: 0.015894 | Train acc: 1.000000 | Val loss: 0.959013 | Val acc: 0.688000 | Training duration: 0.011194
+Early stopping counter: 31 out of 50
+Epoch: 320 | Learning rate: 0.01000000 | Train loss: 0.014258 | Train acc: 1.000000 | Val loss: 0.944271 | Val acc: 0.686000 | Training duration: 0.011262
+Early stopping counter: 32 out of 50
+Epoch: 321 | Learning rate: 0.01000000 | Train loss: 0.015178 | Train acc: 1.000000 | Val loss: 0.951596 | Val acc: 0.702000 | Training duration: 0.011274
+Early stopping counter: 33 out of 50
+Epoch: 322 | Learning rate: 0.01000000 | Train loss: 0.013655 | Train acc: 1.000000 | Val loss: 0.955245 | Val acc: 0.694000 | Training duration: 0.011627
+Early stopping counter: 34 out of 50
+Epoch: 323 | Learning rate: 0.01000000 | Train loss: 0.014003 | Train acc: 1.000000 | Val loss: 0.957903 | Val acc: 0.684000 | Training duration: 0.011173
+Early stopping counter: 35 out of 50
+Epoch: 324 | Learning rate: 0.01000000 | Train loss: 0.013079 | Train acc: 1.000000 | Val loss: 0.969766 | Val acc: 0.678000 | Training duration: 0.011169
+Early stopping counter: 36 out of 50
+Epoch: 325 | Learning rate: 0.01000000 | Train loss: 0.013907 | Train acc: 1.000000 | Val loss: 0.973275 | Val acc: 0.688000 | Training duration: 0.011258
+Early stopping counter: 37 out of 50
+Epoch: 326 | Learning rate: 0.01000000 | Train loss: 0.014356 | Train acc: 1.000000 | Val loss: 0.974120 | Val acc: 0.686000 | Training duration: 0.011306
+Early stopping counter: 38 out of 50
+Epoch: 327 | Learning rate: 0.01000000 | Train loss: 0.015337 | Train acc: 1.000000 | Val loss: 0.974606 | Val acc: 0.690000 | Training duration: 0.011457
+Early stopping counter: 39 out of 50
+Epoch: 328 | Learning rate: 0.01000000 | Train loss: 0.012853 | Train acc: 1.000000 | Val loss: 0.943131 | Val acc: 0.704000 | Training duration: 0.011165
+Early stopping counter: 40 out of 50
+Epoch: 329 | Learning rate: 0.01000000 | Train loss: 0.013392 | Train acc: 1.000000 | Val loss: 0.935791 | Val acc: 0.706000 | Training duration: 0.011306
+Validation loss decreased ( 0.937887 -->  0.935791).  Saving model ...
+Epoch: 330 | Learning rate: 0.01000000 | Train loss: 0.013872 | Train acc: 1.000000 | Val loss: 0.941180 | Val acc: 0.702000 | Training duration: 0.011102
+Early stopping counter: 1 out of 50
+Epoch: 331 | Learning rate: 0.01000000 | Train loss: 0.013525 | Train acc: 1.000000 | Val loss: 0.948077 | Val acc: 0.702000 | Training duration: 0.011446
+Early stopping counter: 2 out of 50
+Epoch: 332 | Learning rate: 0.01000000 | Train loss: 0.014933 | Train acc: 1.000000 | Val loss: 0.969433 | Val acc: 0.694000 | Training duration: 0.011267
+Early stopping counter: 3 out of 50
+Epoch: 333 | Learning rate: 0.01000000 | Train loss: 0.015065 | Train acc: 1.000000 | Val loss: 0.961086 | Val acc: 0.690000 | Training duration: 0.011310
+Early stopping counter: 4 out of 50
+Epoch: 334 | Learning rate: 0.01000000 | Train loss: 0.014295 | Train acc: 1.000000 | Val loss: 0.948638 | Val acc: 0.700000 | Training duration: 0.011334
+Early stopping counter: 5 out of 50
+Epoch: 335 | Learning rate: 0.01000000 | Train loss: 0.014076 | Train acc: 1.000000 | Val loss: 0.960667 | Val acc: 0.682000 | Training duration: 0.010984
+Early stopping counter: 6 out of 50
+Epoch: 336 | Learning rate: 0.01000000 | Train loss: 0.014726 | Train acc: 1.000000 | Val loss: 0.947531 | Val acc: 0.688000 | Training duration: 0.011215
+Early stopping counter: 7 out of 50
+Epoch: 337 | Learning rate: 0.01000000 | Train loss: 0.012643 | Train acc: 1.000000 | Val loss: 0.951856 | Val acc: 0.696000 | Training duration: 0.014390
+Early stopping counter: 8 out of 50
+Epoch: 338 | Learning rate: 0.01000000 | Train loss: 0.013860 | Train acc: 1.000000 | Val loss: 0.947940 | Val acc: 0.700000 | Training duration: 0.014140
+Early stopping counter: 9 out of 50
+Epoch: 339 | Learning rate: 0.01000000 | Train loss: 0.014377 | Train acc: 1.000000 | Val loss: 0.958037 | Val acc: 0.704000 | Training duration: 0.011280
+Early stopping counter: 10 out of 50
+Epoch: 340 | Learning rate: 0.01000000 | Train loss: 0.014964 | Train acc: 1.000000 | Val loss: 0.946971 | Val acc: 0.686000 | Training duration: 0.010850
+Early stopping counter: 11 out of 50
+Epoch: 341 | Learning rate: 0.01000000 | Train loss: 0.013406 | Train acc: 1.000000 | Val loss: 0.967305 | Val acc: 0.688000 | Training duration: 0.010989
+Early stopping counter: 12 out of 50
+Epoch: 342 | Learning rate: 0.01000000 | Train loss: 0.013139 | Train acc: 1.000000 | Val loss: 0.939870 | Val acc: 0.688000 | Training duration: 0.011186
+Early stopping counter: 13 out of 50
+Epoch: 343 | Learning rate: 0.01000000 | Train loss: 0.013576 | Train acc: 1.000000 | Val loss: 0.958697 | Val acc: 0.686000 | Training duration: 0.011241
+Early stopping counter: 14 out of 50
+Epoch: 344 | Learning rate: 0.01000000 | Train loss: 0.014128 | Train acc: 1.000000 | Val loss: 0.946378 | Val acc: 0.694000 | Training duration: 0.011227
+Early stopping counter: 15 out of 50
+Epoch: 345 | Learning rate: 0.01000000 | Train loss: 0.012729 | Train acc: 1.000000 | Val loss: 0.955110 | Val acc: 0.700000 | Training duration: 0.011306
+Early stopping counter: 16 out of 50
+Epoch: 346 | Learning rate: 0.01000000 | Train loss: 0.013465 | Train acc: 1.000000 | Val loss: 0.940262 | Val acc: 0.698000 | Training duration: 0.010949
+Early stopping counter: 17 out of 50
+Epoch: 347 | Learning rate: 0.01000000 | Train loss: 0.013964 | Train acc: 1.000000 | Val loss: 0.951044 | Val acc: 0.694000 | Training duration: 0.011269
+Early stopping counter: 18 out of 50
+Epoch: 348 | Learning rate: 0.01000000 | Train loss: 0.013878 | Train acc: 1.000000 | Val loss: 0.973192 | Val acc: 0.674000 | Training duration: 0.011180
+Early stopping counter: 19 out of 50
+Epoch: 349 | Learning rate: 0.01000000 | Train loss: 0.014308 | Train acc: 1.000000 | Val loss: 0.960042 | Val acc: 0.690000 | Training duration: 0.011095
+Early stopping counter: 20 out of 50
+Epoch: 350 | Learning rate: 0.01000000 | Train loss: 0.013690 | Train acc: 1.000000 | Val loss: 0.978304 | Val acc: 0.684000 | Training duration: 0.011128
+Early stopping counter: 21 out of 50
+Epoch: 351 | Learning rate: 0.01000000 | Train loss: 0.013131 | Train acc: 1.000000 | Val loss: 0.956659 | Val acc: 0.704000 | Training duration: 0.011313
+Early stopping counter: 22 out of 50
+Epoch: 352 | Learning rate: 0.01000000 | Train loss: 0.013896 | Train acc: 1.000000 | Val loss: 0.939582 | Val acc: 0.696000 | Training duration: 0.014651
+Early stopping counter: 23 out of 50
+Epoch: 353 | Learning rate: 0.01000000 | Train loss: 0.012798 | Train acc: 1.000000 | Val loss: 0.949058 | Val acc: 0.682000 | Training duration: 0.012207
+Early stopping counter: 24 out of 50
+Epoch: 354 | Learning rate: 0.01000000 | Train loss: 0.014964 | Train acc: 1.000000 | Val loss: 0.944949 | Val acc: 0.694000 | Training duration: 0.012676
+Early stopping counter: 25 out of 50
+Epoch: 355 | Learning rate: 0.01000000 | Train loss: 0.014813 | Train acc: 1.000000 | Val loss: 0.941655 | Val acc: 0.702000 | Training duration: 0.011100
+Early stopping counter: 26 out of 50
+Epoch: 356 | Learning rate: 0.01000000 | Train loss: 0.013805 | Train acc: 1.000000 | Val loss: 0.944908 | Val acc: 0.696000 | Training duration: 0.010995
+Early stopping counter: 27 out of 50
+Epoch: 357 | Learning rate: 0.01000000 | Train loss: 0.013954 | Train acc: 1.000000 | Val loss: 0.966437 | Val acc: 0.674000 | Training duration: 0.010857
+Early stopping counter: 28 out of 50
+Epoch: 358 | Learning rate: 0.01000000 | Train loss: 0.014062 | Train acc: 1.000000 | Val loss: 0.977813 | Val acc: 0.696000 | Training duration: 0.011126
+Early stopping counter: 29 out of 50
+Epoch: 359 | Learning rate: 0.01000000 | Train loss: 0.012723 | Train acc: 1.000000 | Val loss: 0.966118 | Val acc: 0.698000 | Training duration: 0.011184
+Early stopping counter: 30 out of 50
+Epoch: 360 | Learning rate: 0.01000000 | Train loss: 0.012802 | Train acc: 1.000000 | Val loss: 0.961981 | Val acc: 0.684000 | Training duration: 0.010816
+Early stopping counter: 31 out of 50
+Epoch: 361 | Learning rate: 0.01000000 | Train loss: 0.012554 | Train acc: 1.000000 | Val loss: 0.936780 | Val acc: 0.694000 | Training duration: 0.011347
+Early stopping counter: 32 out of 50
+Epoch: 362 | Learning rate: 0.01000000 | Train loss: 0.014055 | Train acc: 1.000000 | Val loss: 0.937234 | Val acc: 0.710000 | Training duration: 0.010954
+Early stopping counter: 33 out of 50
+Epoch: 363 | Learning rate: 0.01000000 | Train loss: 0.013549 | Train acc: 1.000000 | Val loss: 0.955207 | Val acc: 0.704000 | Training duration: 0.011389
+Early stopping counter: 34 out of 50
+Epoch: 364 | Learning rate: 0.01000000 | Train loss: 0.013019 | Train acc: 1.000000 | Val loss: 0.961690 | Val acc: 0.684000 | Training duration: 0.011199
+Early stopping counter: 35 out of 50
+Epoch: 365 | Learning rate: 0.01000000 | Train loss: 0.012915 | Train acc: 1.000000 | Val loss: 0.964920 | Val acc: 0.708000 | Training duration: 0.010871
+Early stopping counter: 36 out of 50
+Epoch: 366 | Learning rate: 0.01000000 | Train loss: 0.012263 | Train acc: 1.000000 | Val loss: 0.971225 | Val acc: 0.688000 | Training duration: 0.010945
+Early stopping counter: 37 out of 50
+Epoch: 367 | Learning rate: 0.01000000 | Train loss: 0.012521 | Train acc: 1.000000 | Val loss: 0.963348 | Val acc: 0.680000 | Training duration: 0.011365
+Early stopping counter: 38 out of 50
+Epoch: 368 | Learning rate: 0.01000000 | Train loss: 0.014415 | Train acc: 1.000000 | Val loss: 0.966690 | Val acc: 0.686000 | Training duration: 0.011363
+Early stopping counter: 39 out of 50
+Epoch: 369 | Learning rate: 0.01000000 | Train loss: 0.014352 | Train acc: 1.000000 | Val loss: 0.954862 | Val acc: 0.684000 | Training duration: 0.011408
+Early stopping counter: 40 out of 50
+Epoch: 370 | Learning rate: 0.01000000 | Train loss: 0.013194 | Train acc: 1.000000 | Val loss: 0.953208 | Val acc: 0.690000 | Training duration: 0.011530
+Early stopping counter: 41 out of 50
+Epoch: 371 | Learning rate: 0.01000000 | Train loss: 0.013350 | Train acc: 1.000000 | Val loss: 0.932071 | Val acc: 0.704000 | Training duration: 0.011606
+Validation loss decreased ( 0.935791 -->  0.932071).  Saving model ...
+Epoch: 372 | Learning rate: 0.01000000 | Train loss: 0.013772 | Train acc: 1.000000 | Val loss: 0.956236 | Val acc: 0.696000 | Training duration: 0.011222
+Early stopping counter: 1 out of 50
+Epoch: 373 | Learning rate: 0.01000000 | Train loss: 0.013562 | Train acc: 1.000000 | Val loss: 0.975989 | Val acc: 0.688000 | Training duration: 0.011032
+Early stopping counter: 2 out of 50
+Epoch: 374 | Learning rate: 0.01000000 | Train loss: 0.012756 | Train acc: 1.000000 | Val loss: 0.970318 | Val acc: 0.686000 | Training duration: 0.011341
+Early stopping counter: 3 out of 50
+Epoch: 375 | Learning rate: 0.01000000 | Train loss: 0.012425 | Train acc: 1.000000 | Val loss: 0.964920 | Val acc: 0.678000 | Training duration: 0.011271
+Early stopping counter: 4 out of 50
+Epoch: 376 | Learning rate: 0.01000000 | Train loss: 0.012997 | Train acc: 1.000000 | Val loss: 0.961114 | Val acc: 0.694000 | Training duration: 0.011341
+Early stopping counter: 5 out of 50
+Epoch: 377 | Learning rate: 0.01000000 | Train loss: 0.013708 | Train acc: 1.000000 | Val loss: 0.958767 | Val acc: 0.694000 | Training duration: 0.012941
+Early stopping counter: 6 out of 50
+Epoch: 378 | Learning rate: 0.01000000 | Train loss: 0.012494 | Train acc: 1.000000 | Val loss: 0.961489 | Val acc: 0.686000 | Training duration: 0.011203
+Early stopping counter: 7 out of 50
+Epoch: 379 | Learning rate: 0.01000000 | Train loss: 0.014654 | Train acc: 1.000000 | Val loss: 0.957723 | Val acc: 0.676000 | Training duration: 0.011223
+Early stopping counter: 8 out of 50
+Epoch: 380 | Learning rate: 0.01000000 | Train loss: 0.014040 | Train acc: 1.000000 | Val loss: 0.964011 | Val acc: 0.694000 | Training duration: 0.011257
+Early stopping counter: 9 out of 50
+Epoch: 381 | Learning rate: 0.01000000 | Train loss: 0.013648 | Train acc: 1.000000 | Val loss: 0.961157 | Val acc: 0.690000 | Training duration: 0.011406
+Early stopping counter: 10 out of 50
+Epoch: 382 | Learning rate: 0.01000000 | Train loss: 0.013379 | Train acc: 1.000000 | Val loss: 0.951298 | Val acc: 0.692000 | Training duration: 0.011250
+Early stopping counter: 11 out of 50
+Epoch: 383 | Learning rate: 0.01000000 | Train loss: 0.012570 | Train acc: 1.000000 | Val loss: 0.973952 | Val acc: 0.692000 | Training duration: 0.010954
+Early stopping counter: 12 out of 50
+Epoch: 384 | Learning rate: 0.01000000 | Train loss: 0.013607 | Train acc: 1.000000 | Val loss: 0.955115 | Val acc: 0.694000 | Training duration: 0.010895
+Early stopping counter: 13 out of 50
+Epoch: 385 | Learning rate: 0.01000000 | Train loss: 0.011920 | Train acc: 1.000000 | Val loss: 0.961471 | Val acc: 0.672000 | Training duration: 0.011058
+Early stopping counter: 14 out of 50
+Epoch: 386 | Learning rate: 0.01000000 | Train loss: 0.013134 | Train acc: 1.000000 | Val loss: 0.951469 | Val acc: 0.688000 | Training duration: 0.014328
+Early stopping counter: 15 out of 50
+Epoch: 387 | Learning rate: 0.01000000 | Train loss: 0.012784 | Train acc: 1.000000 | Val loss: 0.952362 | Val acc: 0.696000 | Training duration: 0.012395
+Early stopping counter: 16 out of 50
+Epoch: 388 | Learning rate: 0.01000000 | Train loss: 0.012664 | Train acc: 1.000000 | Val loss: 0.959199 | Val acc: 0.676000 | Training duration: 0.011334
+Early stopping counter: 17 out of 50
+Epoch: 389 | Learning rate: 0.01000000 | Train loss: 0.012694 | Train acc: 1.000000 | Val loss: 0.960235 | Val acc: 0.700000 | Training duration: 0.010943
+Early stopping counter: 18 out of 50
+Epoch: 390 | Learning rate: 0.01000000 | Train loss: 0.012973 | Train acc: 1.000000 | Val loss: 0.956371 | Val acc: 0.698000 | Training duration: 0.010927
+Early stopping counter: 19 out of 50
+Epoch: 391 | Learning rate: 0.01000000 | Train loss: 0.013885 | Train acc: 1.000000 | Val loss: 0.960894 | Val acc: 0.684000 | Training duration: 0.011439
+Early stopping counter: 20 out of 50
+Epoch: 392 | Learning rate: 0.01000000 | Train loss: 0.013951 | Train acc: 1.000000 | Val loss: 0.962819 | Val acc: 0.672000 | Training duration: 0.011324
+Early stopping counter: 21 out of 50
+Epoch: 393 | Learning rate: 0.01000000 | Train loss: 0.013534 | Train acc: 1.000000 | Val loss: 0.979133 | Val acc: 0.674000 | Training duration: 0.011418
+Early stopping counter: 22 out of 50
+Epoch: 394 | Learning rate: 0.01000000 | Train loss: 0.012667 | Train acc: 1.000000 | Val loss: 0.952362 | Val acc: 0.676000 | Training duration: 0.011374
+Early stopping counter: 23 out of 50
+Epoch: 395 | Learning rate: 0.01000000 | Train loss: 0.012690 | Train acc: 1.000000 | Val loss: 0.950669 | Val acc: 0.696000 | Training duration: 0.011386
+Early stopping counter: 24 out of 50
+Epoch: 396 | Learning rate: 0.01000000 | Train loss: 0.013150 | Train acc: 1.000000 | Val loss: 0.959787 | Val acc: 0.696000 | Training duration: 0.011011
+Early stopping counter: 25 out of 50
+Epoch: 397 | Learning rate: 0.01000000 | Train loss: 0.012528 | Train acc: 1.000000 | Val loss: 0.945181 | Val acc: 0.684000 | Training duration: 0.011162
+Early stopping counter: 26 out of 50
+Epoch: 398 | Learning rate: 0.01000000 | Train loss: 0.014215 | Train acc: 1.000000 | Val loss: 0.955793 | Val acc: 0.692000 | Training duration: 0.011357
+Early stopping counter: 27 out of 50
+Epoch: 399 | Learning rate: 0.01000000 | Train loss: 0.012567 | Train acc: 1.000000 | Val loss: 0.953281 | Val acc: 0.696000 | Training duration: 0.011238
+Early stopping counter: 28 out of 50
+Epoch: 400 | Learning rate: 0.01000000 | Train loss: 0.013033 | Train acc: 1.000000 | Val loss: 0.950880 | Val acc: 0.686000 | Training duration: 0.011081
+Early stopping counter: 29 out of 50
+Epoch: 401 | Learning rate: 0.01000000 | Train loss: 0.012075 | Train acc: 1.000000 | Val loss: 0.955665 | Val acc: 0.692000 | Training duration: 0.011363
+Early stopping counter: 30 out of 50
+Epoch: 402 | Learning rate: 0.01000000 | Train loss: 0.012126 | Train acc: 1.000000 | Val loss: 0.959555 | Val acc: 0.692000 | Training duration: 0.011278
+Early stopping counter: 31 out of 50
+Epoch: 403 | Learning rate: 0.01000000 | Train loss: 0.011526 | Train acc: 1.000000 | Val loss: 0.953389 | Val acc: 0.698000 | Training duration: 0.011187
+Early stopping counter: 32 out of 50
+Epoch: 404 | Learning rate: 0.01000000 | Train loss: 0.013042 | Train acc: 1.000000 | Val loss: 0.953995 | Val acc: 0.686000 | Training duration: 0.011035
+Early stopping counter: 33 out of 50
+Epoch: 405 | Learning rate: 0.01000000 | Train loss: 0.012404 | Train acc: 1.000000 | Val loss: 0.944417 | Val acc: 0.690000 | Training duration: 0.011236
+Early stopping counter: 34 out of 50
+Epoch: 406 | Learning rate: 0.01000000 | Train loss: 0.013136 | Train acc: 1.000000 | Val loss: 0.951711 | Val acc: 0.686000 | Training duration: 0.011181
+Early stopping counter: 35 out of 50
+Epoch: 407 | Learning rate: 0.01000000 | Train loss: 0.012803 | Train acc: 1.000000 | Val loss: 0.969199 | Val acc: 0.684000 | Training duration: 0.011249
+Early stopping counter: 36 out of 50
+Epoch: 408 | Learning rate: 0.01000000 | Train loss: 0.012832 | Train acc: 1.000000 | Val loss: 0.970099 | Val acc: 0.674000 | Training duration: 0.010835
+Early stopping counter: 37 out of 50
+Epoch: 409 | Learning rate: 0.01000000 | Train loss: 0.012086 | Train acc: 1.000000 | Val loss: 0.961903 | Val acc: 0.688000 | Training duration: 0.010920
+Early stopping counter: 38 out of 50
+Epoch: 410 | Learning rate: 0.01000000 | Train loss: 0.013119 | Train acc: 1.000000 | Val loss: 0.934047 | Val acc: 0.692000 | Training duration: 0.011386
+Early stopping counter: 39 out of 50
+Epoch: 411 | Learning rate: 0.01000000 | Train loss: 0.012826 | Train acc: 1.000000 | Val loss: 0.939301 | Val acc: 0.708000 | Training duration: 0.011348
+Early stopping counter: 40 out of 50
+Epoch: 412 | Learning rate: 0.01000000 | Train loss: 0.013313 | Train acc: 1.000000 | Val loss: 0.957903 | Val acc: 0.692000 | Training duration: 0.011207
+Early stopping counter: 41 out of 50
+Epoch: 413 | Learning rate: 0.01000000 | Train loss: 0.011972 | Train acc: 1.000000 | Val loss: 0.960334 | Val acc: 0.692000 | Training duration: 0.011401
+Early stopping counter: 42 out of 50
+Epoch: 414 | Learning rate: 0.01000000 | Train loss: 0.013537 | Train acc: 1.000000 | Val loss: 0.965868 | Val acc: 0.686000 | Training duration: 0.011217
+Early stopping counter: 43 out of 50
+Epoch: 415 | Learning rate: 0.01000000 | Train loss: 0.013293 | Train acc: 1.000000 | Val loss: 0.980147 | Val acc: 0.672000 | Training duration: 0.010877
+Early stopping counter: 44 out of 50
+Epoch: 416 | Learning rate: 0.01000000 | Train loss: 0.012528 | Train acc: 1.000000 | Val loss: 0.953072 | Val acc: 0.682000 | Training duration: 0.011612
+Early stopping counter: 45 out of 50
+Epoch: 417 | Learning rate: 0.01000000 | Train loss: 0.013273 | Train acc: 1.000000 | Val loss: 0.961925 | Val acc: 0.686000 | Training duration: 0.011557
+Early stopping counter: 46 out of 50
+Epoch: 418 | Learning rate: 0.01000000 | Train loss: 0.013008 | Train acc: 1.000000 | Val loss: 0.944804 | Val acc: 0.698000 | Training duration: 0.012256
+Early stopping counter: 47 out of 50
+Epoch: 419 | Learning rate: 0.01000000 | Train loss: 0.013123 | Train acc: 1.000000 | Val loss: 0.964894 | Val acc: 0.696000 | Training duration: 0.012065
+Early stopping counter: 48 out of 50
+Epoch: 420 | Learning rate: 0.01000000 | Train loss: 0.012006 | Train acc: 1.000000 | Val loss: 0.959577 | Val acc: 0.700000 | Training duration: 0.011276
+Early stopping counter: 49 out of 50
+Epoch: 421 | Learning rate: 0.01000000 | Train loss: 0.011824 | Train acc: 1.000000 | Val loss: 0.955925 | Val acc: 0.704000 | Training duration: 0.011255
+Early stopping counter: 50 out of 50
+Early stopping.
+
+Training finished.
+
+Model: chebynet | Dataset: citeseer | Test loss: 0.895940 | Test acc: 0.696000 | Training duration: 0.011455
