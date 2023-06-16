@@ -143,18 +143,13 @@ def load_data(dataset: str = 'cora'):
     elif dataset == 'products':
         graph, features, labels = get_other_raw_data(dataset)
 
-    print(f'读好数据了: {time.time() - t:.2f}s')
-
     # form index for train, validate and test data
     idx_train, idx_val, idx_test = get_idx_train_val_test(labels)
-
-    print(f'生成index了: {time.time() - t:.2f}s')
 
     # deal with feature
     features = features.numpy()
     features = normalize(features)
     features = torch.FloatTensor(features)
-    print(f'生成feature了: {time.time() - t:.2f}s')
 
     # deal with adj
     nx_graph = graph.to_networkx()
@@ -167,7 +162,6 @@ def load_data(dataset: str = 'cora'):
     # renormalization trick (preprocess)
     adj = normalize(adj + sp.eye(adj.shape[0]))
     adj = sparse_mx_to_torch_sparse_tensor(adj)
-    print(f'生成adj了: {time.time() - t:.2f}s')
 
     return adj, features, labels, idx_train, idx_val, idx_test
 
