@@ -13,6 +13,7 @@ from utils import load_data, accuracy
 from models import GCN
 
 import train_gcn
+import train_chebynet
 
 # Training settings
 parser = argparse.ArgumentParser() # 然后创建一个解析对象
@@ -36,6 +37,13 @@ parser.add_argument('--hidden', type=int, default=16,
                     help='Number of hidden units.')
 parser.add_argument('--dropout', type=float, default=0.5,
                     help='Dropout rate (1 - keep probability).')
+# parameter for chebynet
+parser.add_argument('--enable_bias', type=bool, default=True,
+                    help='default as True')
+parser.add_argument('--Ko', type=int, default=2,
+                    help='K order Chebyshev polynomials')
+parser.add_argument('--Kl', type=int, default=2,
+                    help='K layer')
 
 args = parser.parse_args() # 调用parse_args()方法进行解析；解析成功之后即可使用。# 这个是使用argparse模块时的必备行，将参数进行关联
 # args现在是一个叫Namespace的object
@@ -49,6 +57,8 @@ if args.cuda:
 def main():
     if args.model == 'gcn':
         train_gcn.main(args)
+    elif args.model == 'chebynet':
+        train_chebynet.main(args)
 
 
 if __name__ == '__main__':

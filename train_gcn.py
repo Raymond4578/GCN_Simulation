@@ -90,6 +90,3 @@ def main(args):
 
     # Testing
     test(model, adj, features, labels, idx_test)
-
-if __name__ == '__main__':
-    print('good')
